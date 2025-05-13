@@ -581,8 +581,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-05-12 22:10:34 +0000",
+      "minecraft:beach": "2025-05-13 20:31:21 +0000",
       "minecraft:river": "2025-05-12 20:15:33 +0000",
       "minecraft:forest": "2025-05-12 18:14:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-13 20:25:53 +0000",
       "minecraft:meadow": "2025-05-12 22:15:28 +0000",
       "minecraft:plains": "2025-05-12 20:25:25 +0000"
     },
@@ -610,7 +612,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-12 21:07:50 +0000",
       "minecraft:spider": "2025-05-12 19:14:17 +0000",
-      "minecraft:zombie": "2025-05-12 18:18:13 +0000"
+      "minecraft:enderman": "2025-05-13 20:27:12 +0000",
+      "minecraft:zombie": "2025-05-12 18:18:13 +0000",
+      "minecraft:zombie_villager": "2025-05-13 20:28:21 +0000"
     },
     "done": false
   },
@@ -9773,15 +9777,33 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/raisins_from_grape": {
+    "criteria": {
+      "has_grape": "2025-05-13 20:27:12 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/computer_advanced": {
     "criteria": {
       "has_components": "2025-05-13 20:16:58 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-05-13 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-13 20:27:13 +0000"
     },
     "done": true
   },
@@ -9803,6 +9825,12 @@
     },
     "done": true
   },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-05-13 20:27:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-05-13 20:12:04 +0000"
@@ -9812,6 +9840,24 @@
   "ae2:recipes/misc/network/cables/dense_smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/grape_seed": {
+    "criteria": {
+      "has_grape": "2025-05-13 20:27:12 +0000"
     },
     "done": true
   },
@@ -9911,6 +9957,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/grape_jam": {
+    "criteria": {
+      "has_grape": "2025-05-13 20:27:12 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-05-13 20:12:04 +0000"
@@ -9920,6 +9972,18 @@
   "mcda:recipes/crafting_items/gemstone_blue": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-13 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/wine": {
+    "criteria": {
+      "has_grapes": "2025-05-13 20:27:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-05-13 20:27:13 +0000"
     },
     "done": true
   },
@@ -9941,6 +10005,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-05-13 20:24:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-13 20:16:57 +0000"
@@ -9953,15 +10023,39 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/blue_bioshroom_from_tall_blue_bioshroom": {
     "criteria": {
       "has_tall_blue_bioshroom": "2025-05-13 20:06:14 +0000"
     },
     "done": true
   },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-05-13 20:24:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "verglas": "2025-05-13 20:24:40 +0000"
     },
     "done": true
   },
@@ -9983,15 +10077,33 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "grape_seed": "2025-05-13 20:27:11 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
     "criteria": {
       "has_pink_lupine": "2025-05-13 20:04:31 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-05-13 20:24:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/redstone": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-05-13 20:27:13 +0000"
     },
     "done": true
   },
@@ -10007,6 +10119,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/grape_juice": {
+    "criteria": {
+      "has_grape": "2025-05-13 20:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-05-13 20:27:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
@@ -10019,9 +10143,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/raisins_from_smoking_grape": {
+    "criteria": {
+      "has_grape": "2025-05-13 20:27:12 +0000"
     },
     "done": true
   },
@@ -10085,15 +10221,39 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "grape_seed": "2025-05-13 20:27:11 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-05-13 20:24:40 +0000"
     },
     "done": true
   },
@@ -10109,6 +10269,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2025-05-13 20:12:04 +0000"
@@ -10118,6 +10284,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_raisins": {
+    "criteria": {
+      "has_grapes": "2025-05-13 20:27:12 +0000"
     },
     "done": true
   },
@@ -10163,6 +10335,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-05-13 20:12:04 +0000"
@@ -10178,6 +10356,18 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-13 20:16:57 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_grape": "2025-05-13 20:27:12 +0000"
     },
     "done": true
   },

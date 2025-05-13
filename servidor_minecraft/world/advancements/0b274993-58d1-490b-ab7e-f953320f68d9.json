@@ -582,8 +582,10 @@
     "criteria": {
       "minecraft:birch_forest": "2025-05-12 22:10:22 +0000",
       "minecraft:beach": "2025-05-12 20:23:16 +0000",
+      "minecraft:dark_forest": "2025-05-13 20:26:00 +0000",
       "minecraft:river": "2025-05-12 20:15:18 +0000",
       "minecraft:forest": "2025-05-12 18:46:08 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-13 20:25:20 +0000",
       "minecraft:meadow": "2025-05-12 22:16:32 +0000",
       "minecraft:plains": "2025-05-12 20:22:15 +0000"
     },
@@ -6074,6 +6076,7 @@
       "willow_forest": "2025-05-12 22:18:58 +0000",
       "grassy_beach": "2025-05-12 20:16:00 +0000",
       "blackwood_taiga": "2025-05-12 22:35:53 +0000",
+      "rocky_meadow": "2025-05-13 20:24:39 +0000",
       "highland_fields": "2025-05-13 19:21:35 +0000",
       "magnolia_highlands": "2025-05-12 22:33:43 +0000",
       "sparse_redwoods": "2025-05-13 20:07:15 +0000",
@@ -6092,6 +6095,7 @@
       "willow_forest": "2025-05-12 22:18:58 +0000",
       "grassy_beach": "2025-05-12 20:16:00 +0000",
       "blackwood_taiga": "2025-05-12 22:35:53 +0000",
+      "rocky_meadow": "2025-05-13 20:24:39 +0000",
       "highland_fields": "2025-05-13 19:21:35 +0000",
       "magnolia_highlands": "2025-05-12 22:33:43 +0000",
       "sparse_redwoods": "2025-05-13 20:07:15 +0000",
@@ -9829,6 +9833,12 @@
   "regions_unexplored:recipes/building_blocks/pine_slab": {
     "criteria": {
       "has_pine_planks": "2025-05-13 19:34:07 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-05-13 20:27:41 +0000"
     },
     "done": true
   },
