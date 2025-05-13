@@ -2457,3 +2457,45 @@ BCLib - The End  BiomeSource (39baf058)
 [19:41:33] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
 [19:41:33] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
 [19:41:41] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at -949, 42, 1256, minecells:promenade
+[19:47:32] [Server thread/INFO]: ak4roo7z bled to death
+[19:47:34] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[19:47:37] [Server thread/WARN]: UUID of added entity already exists: class_1560['Enderman'/2178021, l='ServerLevel[world]', x=-867.52, y=21.00, z=862.58]
+[19:47:59] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[19:47:59] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[19:47:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[19:48:48] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[19:48:48] [Server thread/INFO]: ak4roo7z lost connection: Disconnected
+[19:48:48] [Server thread/INFO]: ak4roo7z left the game
+[19:48:48] [Server thread/INFO]: remove player wand
+[19:48:48] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[19:51:35] [User Authenticator #3/INFO]: UUID of player ak4roo7z is 82002a63-ac70-40cc-b1b4-167f5745cdef
+[19:51:35] [Server thread/INFO]: [Handshake] Sending channel query
+[19:51:35] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[19:51:35] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[19:51:35] [Server thread/INFO]: ak4roo7z[/100.84.58.4:57777] logged in with entity id 3265411 at (-994.4906136669689, 45.0, 1168.9339822673753)
+[19:51:35] [Server thread/INFO]: Sending server config values to client
+[19:51:35] [Server thread/INFO]: Syncing config to ak4roo7z (82002a63-ac70-40cc-b1b4-167f5745cdef)
+[19:51:35] [Server thread/INFO]: Loading config from file...
+[19:51:36] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:51:36] [Server thread/INFO]: ak4roo7z joined the game
+[19:51:36] [Server thread/INFO]: Loading Configs for Sortilege
+[19:51:36] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:51:36] [Server thread/INFO]: PLAYER_JOIN
+[19:51:36] [Server thread/INFO]: add_player wand
+[19:51:36] [Server thread/INFO]: config sent
+[19:51:36] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[19:51:38] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[19:51:41] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: ak4roo7z -> Global
+[19:51:41] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player ak4roo7z. Claiming: GRAVE / Robbing: INVENTORY
+[19:51:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[19:52:26] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at -998, 43, 1178, minecells:promenade
+[19:52:42] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[19:53:22] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[19:53:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[19:53:46] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -943.500000, 64.500000, 961.500000]
+[19:53:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[19:55:16] [Server thread/INFO]: [Yamen9z: Teleported ak4roo7z to Yamen9z]
+[19:57:02] [Server thread/INFO]: Yamen9z has made the advancement [Unknown Technology]
+[19:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind

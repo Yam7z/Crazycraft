@@ -9759,5 +9759,11 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_20_grenadiers": {
+    "criteria": {
+      "grenadiers_killed": "2025-05-13 19:45:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
