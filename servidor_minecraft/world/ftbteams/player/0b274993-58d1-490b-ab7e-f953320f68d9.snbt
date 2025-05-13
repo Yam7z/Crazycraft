@@ -1,0 +1,17 @@
+{
+	id: "0b274993-58d1-490b-ab7e-f953320f68d9"
+	type: "player"
+	player_name: "Reelx"
+	ranks: {
+		0b274993-58d1-490b-ab7e-f953320f68d9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Reelx"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFB3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

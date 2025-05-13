@@ -1,0 +1,17 @@
+{
+	id: "41692483-c6b5-441f-8e8f-338e5dd387ce"
+	type: "player"
+	player_name: "Tamlml"
+	ranks: {
+		41692483-c6b5-441f-8e8f-338e5dd387ce: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tamlml"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

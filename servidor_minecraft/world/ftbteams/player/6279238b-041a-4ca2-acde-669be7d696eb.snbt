@@ -1,0 +1,17 @@
+{
+	id: "6279238b-041a-4ca2-acde-669be7d696eb"
+	type: "player"
+	player_name: "Yamen9z"
+	ranks: {
+		6279238b-041a-4ca2-acde-669be7d696eb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Yamen9z"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF159"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

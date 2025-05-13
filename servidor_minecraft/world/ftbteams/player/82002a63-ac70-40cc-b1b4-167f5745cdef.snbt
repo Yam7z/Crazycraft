@@ -1,0 +1,17 @@
+{
+	id: "82002a63-ac70-40cc-b1b4-167f5745cdef"
+	type: "player"
+	player_name: "ak4roo7z"
+	ranks: {
+		82002a63-ac70-40cc-b1b4-167f5745cdef: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ak4roo7z"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
