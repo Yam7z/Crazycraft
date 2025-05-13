@@ -4915,6 +4915,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-12 19:14:11 +0000",
+      "minecraft:spider": "2025-05-13 20:15:05 +0000",
       "minecraft:creeper": "2025-05-13 20:12:29 +0000",
       "minecraft:phantom": "2025-05-12 21:50:01 +0000",
       "minecraft:silverfish": "2025-05-13 19:58:25 +0000",
@@ -6234,10 +6235,12 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-05-13 20:21:15 +0000",
       "pine_taiga": "2025-05-12 22:10:15 +0000",
       "willow_forest": "2025-05-12 22:17:07 +0000",
       "grassy_beach": "2025-05-12 21:59:12 +0000",
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
+      "rocky_meadow": "2025-05-13 20:21:21 +0000",
       "highland_fields": "2025-05-13 19:21:29 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
       "sparse_redwoods": "2025-05-13 20:07:11 +0000",
@@ -6252,10 +6255,12 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-05-13 20:21:15 +0000",
       "pine_taiga": "2025-05-12 22:10:15 +0000",
       "willow_forest": "2025-05-12 22:17:07 +0000",
       "grassy_beach": "2025-05-12 21:59:12 +0000",
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
+      "rocky_meadow": "2025-05-13 20:21:21 +0000",
       "highland_fields": "2025-05-13 19:21:29 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
       "sparse_redwoods": "2025-05-13 20:07:11 +0000",
@@ -11507,6 +11512,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_fence": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/spruce_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-13 20:11:51 +0000"
@@ -11522,6 +11533,12 @@
   "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-05-13 20:22:53 +0000"
     },
     "done": true
   },
@@ -11585,6 +11602,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-05-13 20:22:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
@@ -11618,9 +11641,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_slab": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-13 20:00:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-05-13 20:23:18 +0000"
     },
     "done": true
   },
@@ -11660,6 +11695,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-05-13 20:22:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2025-05-13 20:23:00 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/misc/chests_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
@@ -11669,6 +11716,18 @@
   "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_button": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_trapdoor": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
     },
     "done": true
   },
@@ -11702,8 +11761,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-13 20:16:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_magnolia": {
+    "criteria": {
+      "has_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "magnolia_log": "2025-05-13 20:22:53 +0000",
       "redwood_log": "2025-05-13 20:06:21 +0000"
     },
     "done": false
@@ -11726,6 +11798,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_sign": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/warped_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-13 20:11:51 +0000"
@@ -11738,9 +11816,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_bow": {
+    "criteria": {
+      "has_bow": "2025-05-13 20:16:43 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/cypress_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:bow_way": {
+    "criteria": {
+      "items": "2025-05-13 20:16:43 +0000"
     },
     "done": true
   },
@@ -11762,9 +11852,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+    "criteria": {
+      "has_bow": "2025-05-13 20:16:43 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/crimson_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_fence_gate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
     },
     "done": true
   },
@@ -11840,9 +11942,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_stairs": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_door": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-13 20:00:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/magnolia_pressure_plate": {
+    "criteria": {
+      "has_magnolia_planks": "2025-05-13 20:23:21 +0000"
     },
     "done": true
   },
