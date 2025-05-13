@@ -2511,3 +2511,67 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [16:39:04] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: ak4roo7z -> Global
 [16:39:04] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player ak4roo7z. Claiming: GRAVE / Robbing: INVENTORY
 [16:39:08] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[16:43:28] [Server thread/INFO]: ak4roo7z has made the advancement [Source of Evil]
+[16:48:20] [Server thread/INFO]: ak4roo7z lost connection: Disconnected
+[16:48:20] [Server thread/INFO]: ak4roo7z left the game
+[16:48:20] [Server thread/INFO]: remove player wand
+[16:48:20] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[16:50:15] [Server thread/INFO]: Stopping the server
+[16:50:15] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[16:50:15] [Server thread/INFO]: Resetting environment controller...
+[16:50:15] [Server thread/INFO]: Stopping server
+[16:50:15] [Server thread/INFO]: Saving players
+[16:50:15] [Server thread/INFO]: Saving worlds
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:promenade
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/spellbladenext:glassocean
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:insufferable_crypt
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:ramparts
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:black_bridge
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:vaaz_volcano
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/prominent:cinderstone_depths
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecells:prison
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[16:50:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[16:50:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:50:16] [Server thread/INFO]: Stopping IO worker...
+[16:50:16] [Server thread/INFO]: Stopped IO worker!

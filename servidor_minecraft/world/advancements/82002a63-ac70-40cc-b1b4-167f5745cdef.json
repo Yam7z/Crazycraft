@@ -8570,5 +8570,53 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
+    "criteria": {
+      "has_iron_sword": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_base": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-05-13 16:43:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
