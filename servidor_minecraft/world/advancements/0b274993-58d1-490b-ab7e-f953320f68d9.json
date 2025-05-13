@@ -8598,6 +8598,30 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
+    "criteria": {
+      "has_purple_lupine": "2025-05-13 16:21:32 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-05-13 16:21:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-05-13 16:21:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2025-05-13 16:22:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-05-13 16:22:50 +0000"
@@ -8610,21 +8634,9 @@
     },
     "done": true
   },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-05-13 16:21:41 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_ender_pearl": "2025-05-13 16:22:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/purple_dye_from_purple_lupine": {
-    "criteria": {
-      "has_purple_lupine": "2025-05-13 16:21:32 +0000"
     },
     "done": true
   },
@@ -8667,18 +8679,6 @@
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-05-13 16:22:50 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/grass_block": {
-    "criteria": {
-      "has_grass_block": "2025-05-13 16:21:41 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
-    "criteria": {
-      "has_blue_lupine": "2025-05-13 16:22:48 +0000"
     },
     "done": true
   },

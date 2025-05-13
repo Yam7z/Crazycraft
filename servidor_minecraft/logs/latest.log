@@ -2467,3 +2467,47 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [16:29:45] [Server thread/INFO]: ak4roo7z left the game
 [16:29:45] [Server thread/INFO]: remove player wand
 [16:29:45] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[16:36:17] [User Authenticator #4/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:36:17] [Server thread/INFO]: [Handshake] Sending channel query
+[16:36:17] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[16:36:17] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[16:36:17] [Server thread/INFO]: Reelx[/172.22.149.102:65334] logged in with entity id 2100 at (-1036.3078484221996, 69.24918707874468, 986.9067494995448)
+[16:36:17] [Server thread/INFO]: Sending server config values to client
+[16:36:17] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[16:36:17] [Server thread/INFO]: Loading config from file...
+[16:36:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:36:17] [Server thread/INFO]: Reelx joined the game
+[16:36:17] [Server thread/INFO]: Loading Configs for Sortilege
+[16:36:17] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:36:17] [Server thread/INFO]: PLAYER_JOIN
+[16:36:17] [Server thread/INFO]: add_player wand
+[16:36:17] [Server thread/INFO]: config sent
+[16:36:17] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:36:19] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[16:36:19] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[16:36:19] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[16:36:24] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[16:37:59] [Server thread/INFO]: Reelx lost connection: Disconnected
+[16:37:59] [Server thread/INFO]: Reelx left the game
+[16:37:59] [Server thread/INFO]: remove player wand
+[16:37:59] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:38:58] [User Authenticator #5/INFO]: UUID of player ak4roo7z is 82002a63-ac70-40cc-b1b4-167f5745cdef
+[16:38:58] [Server thread/INFO]: [Handshake] Sending channel query
+[16:38:59] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[16:38:59] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[16:38:59] [Server thread/INFO]: ak4roo7z[/172.22.156.16:57120] logged in with entity id 2649 at (-948.1395601660511, 64.0, 961.375361768546)
+[16:38:59] [Server thread/INFO]: Sending server config values to client
+[16:38:59] [Server thread/INFO]: Syncing config to ak4roo7z (82002a63-ac70-40cc-b1b4-167f5745cdef)
+[16:38:59] [Server thread/INFO]: Loading config from file...
+[16:38:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:38:59] [Server thread/INFO]: ak4roo7z joined the game
+[16:38:59] [Server thread/INFO]: Loading Configs for Sortilege
+[16:38:59] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:38:59] [Server thread/INFO]: PLAYER_JOIN
+[16:38:59] [Server thread/INFO]: add_player wand
+[16:38:59] [Server thread/INFO]: config sent
+[16:38:59] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[16:39:01] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[16:39:04] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: ak4roo7z -> Global
+[16:39:04] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player ak4roo7z. Claiming: GRAVE / Robbing: INVENTORY
+[16:39:08] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
