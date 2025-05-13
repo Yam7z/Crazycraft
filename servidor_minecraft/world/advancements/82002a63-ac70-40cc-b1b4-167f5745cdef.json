@@ -9771,6 +9771,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-13 20:56:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/grinder": {
     "criteria": {
       "has_basic_machine_frame": "2025-05-13 20:16:58 +0000"
@@ -10023,9 +10029,27 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-05-13 20:54:16 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/abyss_watcher": {
     "criteria": {
       "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-05-13 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-13 20:54:16 +0000"
     },
     "done": true
   },
@@ -10107,6 +10131,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-05-13 20:54:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-05-13 20:16:57 +0000"
@@ -10152,6 +10182,12 @@
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-13 20:54:16 +0000"
     },
     "done": true
   },
@@ -10215,6 +10251,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-05-13 20:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-13 20:12:04 +0000"
@@ -10236,6 +10278,12 @@
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-05-13 20:27:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-05-13 21:00:07 +0000"
     },
     "done": true
   },
@@ -10350,6 +10398,12 @@
   "oxidized:recipes/copper_barometer": {
     "criteria": {
       "has_copper_block": "2025-05-13 20:12:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-13 20:56:11 +0000"
     },
     "done": true
   },
