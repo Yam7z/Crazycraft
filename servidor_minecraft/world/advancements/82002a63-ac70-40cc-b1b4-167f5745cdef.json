@@ -8216,13 +8216,55 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-05-12 22:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-05-12 22:49:18 +0000"
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-12 22:49:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-05-12 22:49:18 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-05-12 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-12 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_trap": {
+    "criteria": {
+      "has_flint": "2025-05-12 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-12 22:50:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-05-12 22:50:10 +0000"
     },
@@ -8252,21 +8294,9 @@
     },
     "done": true
   },
-  "minecells:unlock/kill_30_leaping_zombies": {
-    "criteria": {
-      "leaping_zombies_killed": "2025-05-12 23:10:35 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/standard_smithing": {
-    "criteria": {
-      "has_standard": "2025-05-12 22:47:38 +0000"
     },
     "done": true
   },
@@ -8276,33 +8306,15 @@
     },
     "done": true
   },
-  "spellbladenext:spellblades/hexblade": {
-    "criteria": {
-      "requirement": "2025-05-12 23:10:38 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-05-12 22:51:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-05-12 22:50:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-05-12 23:17:48 +0000"
     },
     "done": true
   },
@@ -8324,12 +8336,6 @@
     },
     "done": true
   },
-  "oxidized:recipes/copper_trap": {
-    "criteria": {
-      "has_flint": "2025-05-12 22:50:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-05-12 22:51:03 +0000"
@@ -8345,12 +8351,6 @@
   "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
-    "criteria": {
-      "has_core_specification_item": "2025-05-12 22:49:18 +0000"
     },
     "done": true
   },
@@ -8390,12 +8390,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/compressor/emerald_plate_from_block": {
-    "criteria": {
-      "has_emerald_block": "2025-05-12 22:49:18 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-05-12 22:51:03 +0000"
@@ -8417,12 +8411,6 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/protector": {
-    "criteria": {
-      "requirement": "2025-05-12 23:09:04 +0000"
     },
     "done": true
   },
@@ -8462,27 +8450,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-05-12 22:50:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-05-12 23:21:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-05-12 23:33:01 +0000"
     },
     "done": true
   },
@@ -8495,12 +8465,6 @@
   "create:copper": {
     "criteria": {
       "0": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-05-12 23:33:01 +0000"
     },
     "done": true
   },
@@ -8528,12 +8492,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/misc_block/gravel": {
-    "criteria": {
-      "has_flint": "2025-05-12 22:50:10 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-05-12 22:51:03 +0000"
@@ -8543,12 +8501,6 @@
   "techreborn:recipes/crafting_table/storage_block/copper_wall": {
     "criteria": {
       "has_copper": "2025-05-12 22:51:03 +0000"
-    },
-    "done": true
-  },
-  "minecells:elevator": {
-    "criteria": {
-      "entity_squashed": "2025-05-12 23:17:27 +0000"
     },
     "done": true
   },
@@ -8567,6 +8519,54 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-05-12 22:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-05-12 23:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-05-12 23:10:35 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/hexblade": {
+    "criteria": {
+      "requirement": "2025-05-12 23:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecells:elevator": {
+    "criteria": {
+      "entity_squashed": "2025-05-12 23:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-12 23:17:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-05-12 23:21:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-12 23:33:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-05-12 23:33:01 +0000"
     },
     "done": true
   },

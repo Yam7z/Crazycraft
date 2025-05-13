@@ -2402,3 +2402,68 @@ BCLib - The End  BiomeSource (3fac18cd)
 [16:12:39] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
 [16:12:39] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
 [16:12:39] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[16:18:02] [User Authenticator #1/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:18:04] [Server thread/INFO]: [Handshake] Sending channel query
+[16:18:04] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[16:18:04] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[16:18:05] [Server thread/INFO]: Reelx[/172.22.149.102:64250] logged in with entity id 122 at (-947.8435462561373, 64.0, 960.0308907495468)
+[16:18:05] [Server thread/INFO]: Sending server config values to client
+[16:18:05] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[16:18:06] [Server thread/INFO]: Loading config from file...
+[16:18:06] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:18:06] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[16:18:07] [Server thread/INFO]: Reelx joined the game
+[16:18:07] [Server thread/INFO]: Loading Configs for Sortilege
+[16:18:07] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:18:07] [Server thread/INFO]: PLAYER_JOIN
+[16:18:07] [Server thread/INFO]: add_player wand
+[16:18:07] [Server thread/INFO]: config sent
+[16:18:07] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:18:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[16:18:09] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[16:18:09] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[16:18:10] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[16:18:24] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[16:18:24] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[16:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14596ms or 291 ticks behind
+[16:20:23] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[16:20:30] [Server thread/WARN]: Player Reelx just tried to change non-editable sign
+[16:23:31] [User Authenticator #2/INFO]: UUID of player ak4roo7z is 82002a63-ac70-40cc-b1b4-167f5745cdef
+[16:23:31] [Server thread/INFO]: [Handshake] Sending channel query
+[16:23:31] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[16:23:31] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[16:23:31] [Server thread/INFO]: ak4roo7z[/172.22.156.16:56054] logged in with entity id 1212 at (-943.0478009099819, 64.0, 961.2051199800941)
+[16:23:31] [Server thread/INFO]: Sending server config values to client
+[16:23:31] [Server thread/INFO]: Syncing config to ak4roo7z (82002a63-ac70-40cc-b1b4-167f5745cdef)
+[16:23:31] [Server thread/INFO]: Loading config from file...
+[16:23:31] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:23:31] [Server thread/INFO]: ak4roo7z joined the game
+[16:23:31] [Server thread/INFO]: Loading Configs for Sortilege
+[16:23:31] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:23:32] [Server thread/INFO]: PLAYER_JOIN
+[16:23:32] [Server thread/INFO]: add_player wand
+[16:23:32] [Server thread/INFO]: config sent
+[16:23:32] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[16:23:36] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[16:23:38] [User Authenticator #3/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:23:38] [Server thread/INFO]: [Handshake] Sending channel query
+[16:23:38] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[16:23:38] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[16:23:42] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: ak4roo7z -> Global
+[16:23:42] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player ak4roo7z. Claiming: GRAVE / Robbing: INVENTORY
+[16:23:47] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[16:24:05] [Server thread/INFO]: Reelx lost connection: Timed out
+[16:24:05] [Server thread/INFO]: Reelx left the game
+[16:24:05] [Server thread/INFO]: remove player wand
+[16:24:05] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:24:05] [Server thread/WARN]: handleDisconnection() called twice
+[16:25:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2c16b00d[id=0b274993-58d1-490b-ab7e-f953320f68d9,name=Reelx,properties={textures=[com.mojang.authlib.properties.Property@50f868cf]},legacy=false] (/172.22.149.102:64568): Took too long to log in
+[16:25:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c16b00d[id=0b274993-58d1-490b-ab7e-f953320f68d9,name=Reelx,properties={textures=[com.mojang.authlib.properties.Property@50f868cf]},legacy=false] (/172.22.149.102:64568) lost connection: Took too long to log in
+[16:25:36] [Server thread/WARN]: handleDisconnection() called twice
+[16:26:24] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[16:26:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@4e05e4b3[id=<null>,name=Reelx,properties={},legacy=false] (/172.22.149.102:64629) lost connection: Timed out
+[16:29:45] [Server thread/INFO]: ak4roo7z lost connection: Disconnected
+[16:29:45] [Server thread/INFO]: ak4roo7z left the game
+[16:29:45] [Server thread/INFO]: remove player wand
+[16:29:45] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
