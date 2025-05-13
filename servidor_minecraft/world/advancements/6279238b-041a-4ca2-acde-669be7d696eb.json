@@ -4915,6 +4915,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-12 19:14:11 +0000",
+      "minecraft:creeper": "2025-05-13 20:12:29 +0000",
       "minecraft:phantom": "2025-05-12 21:50:01 +0000",
       "minecraft:silverfish": "2025-05-13 19:58:25 +0000",
       "minecraft:zombie": "2025-05-12 19:11:25 +0000"
@@ -6239,6 +6240,7 @@
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
       "highland_fields": "2025-05-13 19:21:29 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
+      "sparse_redwoods": "2025-05-13 20:07:11 +0000",
       "deciduous_forest": "2025-05-12 21:59:41 +0000",
       "temperate_grove": "2025-05-12 22:11:34 +0000",
       "grassland": "2025-05-12 21:43:02 +0000",
@@ -6256,6 +6258,7 @@
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
       "highland_fields": "2025-05-13 19:21:29 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
+      "sparse_redwoods": "2025-05-13 20:07:11 +0000",
       "deciduous_forest": "2025-05-12 21:59:41 +0000",
       "temperate_grove": "2025-05-12 22:11:34 +0000",
       "grassland": "2025-05-12 21:43:02 +0000",
@@ -11486,9 +11489,33 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-05-13 20:06:21 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-05-13 19:58:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
     },
     "done": true
   },
@@ -11504,15 +11531,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-05-13 19:56:49 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2025-05-13 20:06:31 +0000"
     },
     "done": true
   },
@@ -11540,6 +11597,12 @@
       "silicon": "2025-05-13 19:57:02 +0000",
       "engineering": "2025-05-13 19:57:02 +0000",
       "logic": "2025-05-13 19:57:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
     },
     "done": true
   },
@@ -11579,6 +11642,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-13 20:06:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-05-13 19:56:49 +0000"
@@ -11594,6 +11669,18 @@
   "ae2:recipes/misc/misc/tank_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
     },
     "done": true
   },
@@ -11615,9 +11702,45 @@
     },
     "done": true
   },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "redwood_log": "2025-05-13 20:06:21 +0000"
+    },
+    "done": false
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-05-13 20:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-13 20:00:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
     },
     "done": true
   },
@@ -11633,9 +11756,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-13 20:00:13 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
     },
     "done": true
   },
@@ -11666,6 +11807,24 @@
   "techreborn:recipes/crafting_table/misc_block/gravel": {
     "criteria": {
       "has_flint": "2025-05-13 19:58:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-05-13 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-13 20:11:51 +0000"
     },
     "done": true
   },

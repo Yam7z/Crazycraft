@@ -2551,3 +2551,14 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [20:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [20:07:25] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -941.500000, 64.500000, 959.500000]
 [20:07:26] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[20:11:06] [Server thread/INFO]: Villager class_1646['Courtney'/3792547, l='ServerLevel[world]', x=-1108.31, y=116.00, z=1193.21] died, message: 'Courtney hit the ground too hard'
+[20:11:06] [Server thread/INFO]: Named entity class_1646['Courtney'/3792547, l='ServerLevel[world]', x=-1108.31, y=116.00, z=1193.21] died: Courtney fell from a high place
+[20:13:05] [Server thread/INFO]: [Reelx: The difficulty has been set to Hard]
+[20:13:10] [Server thread/INFO]: [Reelx: The difficulty has been set to Normal]
+[20:13:13] [Server thread/INFO]: [Reelx: The difficulty has been set to Hard]
+[20:15:35] [Server thread/INFO]: ak4roo7z has made the advancement [Stay dead]
+[20:15:48] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[20:16:10] [Server thread/INFO]: Reelx has made the advancement [Stay dead]
+[20:16:43] [Server thread/INFO]: Yamen9z has made the advancement [Archer´s Paths]
+[20:16:58] [Server thread/INFO]: ak4roo7z has made the advancement [Heart of the Machine]
+[20:17:43] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
