@@ -11532,6 +11532,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_stormlander": {
+    "criteria": {
+      "has_anvil": "2025-05-13 20:43:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-05-13 19:58:26 +0000"
@@ -11616,6 +11622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-13 20:43:23 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/bluemoon_greatsword": {
     "criteria": {
       "has_item": "2025-05-13 20:30:10 +0000"
@@ -11691,6 +11703,12 @@
   "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-13 20:34:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-13 20:43:23 +0000"
     },
     "done": true
   },
@@ -11814,6 +11832,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-13 20:43:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-13 20:34:08 +0000"
@@ -11829,6 +11853,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-05-13 19:58:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-05-13 20:43:23 +0000"
     },
     "done": true
   },
@@ -11856,6 +11886,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-05-13 20:43:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-05-13 20:34:08 +0000"
@@ -11868,9 +11904,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-13 20:43:23 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-05-13 19:56:40 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_gravity": {
+    "criteria": {
+      "has_anvil": "2025-05-13 20:43:27 +0000"
     },
     "done": true
   },
@@ -11934,6 +11982,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-13 20:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_iron_block": "2025-05-13 20:43:23 +0000"
     },
     "done": true
   },
@@ -12096,6 +12150,12 @@
   "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-13 20:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-13 20:47:18 +0000"
     },
     "done": true
   },
@@ -12394,15 +12454,33 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-13 20:43:23 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/cypress_poppet_shelf": {
     "criteria": {
       "has_item": "2025-05-13 20:11:51 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-13 20:43:23 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:bow_way": {
     "criteria": {
       "items": "2025-05-13 20:16:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-13 20:43:23 +0000"
     },
     "done": true
   },
@@ -12739,6 +12817,12 @@
   "supplementaries:recipes/stonecutting/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-05-13 20:00:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-05-13 20:43:23 +0000"
     },
     "done": true
   },

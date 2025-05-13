@@ -2598,3 +2598,8 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [20:32:33] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
 [20:33:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [20:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5947ms or 118 ticks behind
+[20:41:50] [Server thread/INFO]: [ak4roo7z: Set the time to 1000]
+[20:42:00] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[20:48:12] [Server thread/INFO]: Named entity class_3989['Mauricio'/3806487, l='ServerLevel[world]', x=-945.35, y=66.00, z=955.71] died: Mauricio was slain by Yamen9z
+[20:48:46] [Server thread/INFO]: Villager class_1646['Florida'/3803043, l='ServerLevel[world]', x=-1100.21, y=79.00, z=1109.24] died, message: 'Florida hit the ground too hard'
+[20:48:46] [Server thread/INFO]: Named entity class_1646['Florida'/3803043, l='ServerLevel[world]', x=-1100.21, y=79.00, z=1109.24] died: Florida fell from a high place
