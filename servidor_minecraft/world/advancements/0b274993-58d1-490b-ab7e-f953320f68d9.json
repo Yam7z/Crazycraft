@@ -6105,6 +6105,7 @@
       "deciduous_forest": "2025-05-12 20:16:28 +0000",
       "boreal_forest": "2025-05-13 21:07:50 +0000",
       "glistering_meadow": "2025-05-15 21:13:34 +0000",
+      "blackstone_basin": "2025-05-15 21:33:11 +0000",
       "temperate_grove": "2025-05-12 22:11:32 +0000",
       "cold_river": "2025-05-13 21:09:18 +0000",
       "grassland": "2025-05-12 20:15:20 +0000",
@@ -11139,6 +11140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-15 20:52:41 +0000"
@@ -11148,9 +11155,28 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-05-15 20:45:13 +0000",
+      "blackstone_basin": "2025-05-15 21:33:11 +0000",
       "glistering_meadow": "2025-05-15 21:13:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-05-15 21:27:26 +0000"
+    },
+    "done": true
   },
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
@@ -11170,15 +11196,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-05-15 20:52:41 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-15 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
     },
     "done": true
   },
@@ -11200,15 +11250,39 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-05-15 20:59:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-05-15 20:52:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
     },
     "done": true
   },
@@ -11227,6 +11301,18 @@
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-15 20:52:25 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
     },
     "done": true
   },
@@ -11254,6 +11340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:nether/find_citadel": {
     "criteria": {
       "citadel": "2025-05-15 21:12:23 +0000"
@@ -11272,15 +11364,69 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_ember": {
     "criteria": {
       "has_core_specification_item": "2025-05-15 20:52:41 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_purple": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/spark": {
     "criteria": {
       "has_item": "2025-05-15 20:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
+    "criteria": {
+      "got_the_netherite_fragment": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
     },
     "done": true
   },
@@ -11320,9 +11466,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2025-05-15 20:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
     },
     "done": true
   },
@@ -11341,6 +11499,12 @@
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-05-15 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
     },
     "done": true
   },
@@ -11377,6 +11541,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_golden": {
     "criteria": {
       "has_core_specification_item": "2025-05-15 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-05-15 21:24:45 +0000"
     },
     "done": true
   },

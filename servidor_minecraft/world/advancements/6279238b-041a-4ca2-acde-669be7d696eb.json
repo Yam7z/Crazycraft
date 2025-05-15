@@ -3313,6 +3313,7 @@
       "cooked_beef": "2025-05-12 22:01:01 +0000",
       "apple": "2025-05-12 18:54:38 +0000",
       "bread": "2025-05-12 18:55:43 +0000",
+      "golden_apple": "2025-05-15 21:24:41 +0000",
       "rotten_flesh": "2025-05-12 19:23:17 +0000",
       "golden_carrot": "2025-05-12 22:24:34 +0000"
     },
@@ -14890,6 +14891,18 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/blast_amplifier": {
+    "criteria": {
+      "has_blazing_eye": "2025-05-15 21:27:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-05-15 21:25:29 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_scythe_pre": {
     "criteria": {
       "has_item": "2025-05-15 21:15:25 +0000"
@@ -14941,6 +14954,12 @@
   "soulsweapons:recipes/combat/moonlight_greatsword": {
     "criteria": {
       "has_lord_soul": "2025-05-15 21:15:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-05-15 21:31:36 +0000"
     },
     "done": true
   },
@@ -15037,6 +15056,12 @@
   "techreborn:recipes/compressor/invar_plate": {
     "criteria": {
       "has_tag_c_invar_ingots": "2025-05-15 21:06:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-05-15 21:25:29 +0000"
     },
     "done": true
   },
@@ -15190,6 +15215,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/gilded_netherite_fragment_recipe": {
+    "criteria": {
+      "got_the_netherite_fragment": "2025-05-15 21:27:58 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/freyr_sword": {
     "criteria": {
       "has_item": "2025-05-15 21:15:25 +0000"
@@ -15313,6 +15344,12 @@
   "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-05-15 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:nether/gauntlet_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:gauntlet": "2025-05-15 21:26:55 +0000"
     },
     "done": true
   },
