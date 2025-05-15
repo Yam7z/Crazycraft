@@ -593,6 +593,7 @@
       "minecraft:grove": "2025-05-13 21:11:14 +0000",
       "minecraft:forest": "2025-05-12 18:14:54 +0000",
       "minecraft:frozen_ocean": "2025-05-13 21:14:09 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-15 19:45:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-13 20:25:53 +0000",
       "minecraft:meadow": "2025-05-12 22:15:28 +0000",
       "minecraft:plains": "2025-05-12 20:25:25 +0000"
@@ -7200,6 +7201,7 @@
       "grassland": "2025-05-12 20:15:25 +0000",
       "prairie": "2025-05-12 20:16:50 +0000",
       "redwoods": "2025-05-12 20:17:43 +0000",
+      "hyacinth_deeps": "2025-05-15 19:48:09 +0000",
       "lupine_plains": "2025-05-12 22:17:15 +0000"
     },
     "done": false
@@ -7223,6 +7225,7 @@
       "grassland": "2025-05-12 20:15:25 +0000",
       "prairie": "2025-05-12 20:16:50 +0000",
       "redwoods": "2025-05-12 20:17:43 +0000",
+      "hyacinth_deeps": "2025-05-15 19:48:09 +0000",
       "lupine_plains": "2025-05-12 22:17:15 +0000"
     },
     "done": false
@@ -11331,15 +11334,117 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-05-15 19:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/have_64_cells": {
+    "criteria": {
+      "requirement": "2025-05-15 19:53:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-15 20:00:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-05-15 20:00:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-15 20:00:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-05-15 19:48:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-15 19:59:45 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-05-15 19:48:36 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_10_shieldbearers": {
     "criteria": {
       "shieldbearers_killed": "2025-05-15 19:22:50 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_sword_with_water": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-15 19:51:50 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_10_buzzcutters": {
     "criteria": {
       "buzzcutters_killed": "2025-05-15 19:19:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-15 19:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_concierge": {
+    "criteria": {
+      "conjunctivius_killed": "2025-05-15 19:52:35 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-15 19:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-15 19:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-15 19:59:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_sword_with_mercury": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-15 19:51:50 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-05-15 19:48:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-05-15 20:00:04 +0000"
     },
     "done": true
   },
