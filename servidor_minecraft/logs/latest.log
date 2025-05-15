@@ -2662,3 +2662,20 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [19:58:38] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
 [20:03:23] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
 [20:03:25] [Server thread/INFO]: <Reelx> sniggers
+[20:12:22] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:15:42] [Server thread/INFO]: No return portal found
+[20:15:42] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[20:15:46] [Server thread/INFO]: Yamen9z has made the advancement [Time for a Sweat]
+[20:15:46] [Server thread/INFO]: Yamen9z has made the advancement [Nether Depths Upgrade]
+[20:15:46] [Server thread/INFO]: Yamen9z has made the advancement [We Need to Go Deeper]
+[20:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9390ms or 187 ticks behind
+[20:15:52] [Server thread/INFO]: No return portal found
+[20:15:52] [Server thread/INFO]: ak4roo7z has made the advancement [Time for a Sweat]
+[20:15:52] [Server thread/INFO]: ak4roo7z has made the advancement [Nether Depths Upgrade]
+[20:15:52] [Server thread/INFO]: ak4roo7z has made the advancement [We Need to Go Deeper]
+[20:15:52] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:15:58] [Server thread/INFO]: No return portal found
+[20:15:58] [Server thread/INFO]: Reelx has made the advancement [Time for a Sweat]
+[20:15:58] [Server thread/INFO]: Reelx has made the advancement [Nether Depths Upgrade]
+[20:15:58] [Server thread/INFO]: Reelx has made the advancement [We Need to Go Deeper]
+[20:15:58] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.

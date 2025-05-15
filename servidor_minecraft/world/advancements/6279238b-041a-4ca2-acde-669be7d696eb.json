@@ -13418,6 +13418,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/pocket_computer_advanced": {
+    "criteria": {
+      "has_apple": "2025-05-15 20:10:08 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
       "has_ancient_anima": "2025-05-15 19:58:21 +0000"
@@ -13484,9 +13490,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-05-15 20:10:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_spruce": {
     "criteria": {
       "has_planks": "2025-05-15 19:46:26 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/pocket_computer_normal": {
+    "criteria": {
+      "has_apple": "2025-05-15 20:10:08 +0000"
     },
     "done": true
   },
