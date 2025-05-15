@@ -11352,6 +11352,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-15 21:52:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/blazeblock_deconstruct": {
     "criteria": {
       "has_item": "2025-05-15 20:52:25 +0000"
@@ -11373,6 +11379,12 @@
   "mcda:recipes/crafting_items/gemstone_white": {
     "criteria": {
       "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-15 21:52:15 +0000"
     },
     "done": true
   },
@@ -11547,6 +11559,18 @@
   "techreborn:recipes/centrifuge/soul_soil": {
     "criteria": {
       "has_soul_soil": "2025-05-15 21:24:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-15 21:52:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-15 21:52:15 +0000"
     },
     "done": true
   },
