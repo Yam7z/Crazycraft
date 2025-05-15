@@ -13059,6 +13059,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-05-15 22:11:40 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
       "has_item": "2025-05-15 21:14:10 +0000"
