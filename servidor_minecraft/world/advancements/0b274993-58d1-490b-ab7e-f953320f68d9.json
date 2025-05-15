@@ -11274,6 +11274,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-05-15 22:04:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
@@ -11283,6 +11289,12 @@
   "supplementaries:recipes/safe": {
     "criteria": {
       "has_netherite_ingot": "2025-05-15 21:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-15 22:00:32 +0000"
     },
     "done": true
   },

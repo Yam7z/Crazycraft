@@ -13005,6 +13005,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-15 22:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/warped_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-15 21:06:29 +0000"
@@ -13914,6 +13920,12 @@
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-05-15 20:52:10 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "nether_eye": "2025-05-15 22:04:44 +0000"
     },
     "done": true
   },
