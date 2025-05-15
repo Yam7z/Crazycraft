@@ -2764,3 +2764,66 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [20:35:53] [Server thread/INFO]: ak4roo7z left the game
 [20:35:53] [Server thread/INFO]: remove player wand
 [20:35:53] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[20:38:33] [User Authenticator #7/INFO]: UUID of player ak4roo7z is 82002a63-ac70-40cc-b1b4-167f5745cdef
+[20:38:33] [Server thread/INFO]: [Handshake] Sending channel query
+[20:38:33] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[20:38:33] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[20:38:34] [Server thread/INFO]: ak4roo7z[/100.84.58.4:51283] logged in with entity id 267677 at (-172.39407067328224, 71.0, 157.49655615908404)
+[20:38:34] [Server thread/INFO]: Sending server config values to client
+[20:38:34] [Server thread/INFO]: Syncing config to ak4roo7z (82002a63-ac70-40cc-b1b4-167f5745cdef)
+[20:38:34] [Server thread/INFO]: Loading config from file...
+[20:38:34] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:38:34] [Server thread/INFO]: ak4roo7z joined the game
+[20:38:34] [Server thread/INFO]: Loading Configs for Sortilege
+[20:38:34] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:38:34] [Server thread/INFO]: PLAYER_JOIN
+[20:38:34] [Server thread/INFO]: add_player wand
+[20:38:34] [Server thread/INFO]: config sent
+[20:38:34] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[20:38:37] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[20:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:38:41] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: ak4roo7z -> Global
+[20:38:41] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player ak4roo7z. Claiming: GRAVE / Robbing: INVENTORY
+[20:38:44] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[20:39:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:40:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[20:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
+[20:41:13] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
+[20:43:31] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:43:56] [User Authenticator #8/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[20:43:56] [Server thread/INFO]: [Handshake] Sending channel query
+[20:43:56] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[20:43:56] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[20:43:56] [Server thread/INFO]: Reelx[/100.95.52.95:51781] logged in with entity id 270236 at (-155.30000001192093, 72.0, 155.69999998807907)
+[20:43:56] [Server thread/INFO]: Sending server config values to client
+[20:43:56] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[20:43:56] [Server thread/INFO]: Loading config from file...
+[20:43:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:43:56] [Server thread/INFO]: Reelx joined the game
+[20:43:56] [Server thread/INFO]: Loading Configs for Sortilege
+[20:43:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:43:56] [Server thread/INFO]: PLAYER_JOIN
+[20:43:56] [Server thread/INFO]: add_player wand
+[20:43:56] [Server thread/INFO]: config sent
+[20:43:56] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[20:43:58] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[20:43:58] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[20:43:58] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[20:43:59] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[20:44:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4908ms or 98 ticks behind
+[20:44:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5046ms or 100 ticks behind
+[20:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
+[20:45:11] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[20:45:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3239ms or 64 ticks behind
+[20:45:53] [Server thread/INFO]: ak4roo7z was doomed to fall by Piglin Brute
+[20:46:01] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:46:06] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:46:06] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:46:20] [Server thread/INFO]: [ak4roo7z: Set own game mode to Creative Mode]
+[20:46:28] [Server thread/INFO]: Yamen9z has made the advancement [Shadow Wizard Money Gang]
+[20:46:33] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 77, 42, 218, minecraft:the_nether
+[20:46:38] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
