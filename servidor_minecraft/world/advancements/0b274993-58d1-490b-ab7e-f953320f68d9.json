@@ -3786,6 +3786,7 @@
       "minecraft:creeper": "2025-05-13 20:17:03 +0000",
       "minecraft:phantom": "2025-05-12 21:50:19 +0000",
       "minecraft:zombified_piglin": "2025-05-15 20:51:06 +0000",
+      "minecraft:wither_skeleton": "2025-05-15 21:12:05 +0000",
       "minecraft:piglin": "2025-05-15 20:47:15 +0000",
       "minecraft:enderman": "2025-05-13 16:21:40 +0000",
       "minecraft:zombie": "2025-05-12 19:08:10 +0000"
@@ -6103,6 +6104,7 @@
       "sparse_redwoods": "2025-05-13 20:07:15 +0000",
       "deciduous_forest": "2025-05-12 20:16:28 +0000",
       "boreal_forest": "2025-05-13 21:07:50 +0000",
+      "glistering_meadow": "2025-05-15 21:13:34 +0000",
       "temperate_grove": "2025-05-12 22:11:32 +0000",
       "cold_river": "2025-05-13 21:09:18 +0000",
       "grassland": "2025-05-12 20:15:20 +0000",
@@ -10452,7 +10454,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-15 20:45:55 +0000",
-      "minecraft:warped_forest": "2025-05-15 20:15:58 +0000"
+      "minecraft:warped_forest": "2025-05-15 20:15:58 +0000",
+      "minecraft:basalt_deltas": "2025-05-15 21:04:46 +0000"
     },
     "done": false
   },
@@ -10483,9 +10486,11 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-05-15 20:59:18 +0000",
+      "betternether:flooded_deltas": "2025-05-15 21:02:42 +0000",
       "betternether:gravel_desert": "2025-05-15 20:58:01 +0000",
       "betternether:old_fungiwoods": "2025-05-15 21:01:20 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-05-15 21:01:18 +0000",
+      "betternether:nether_jungle": "2025-05-15 21:06:34 +0000",
       "betternether:wart_forest": "2025-05-15 21:00:41 +0000",
       "betternether:old_warped_woods": "2025-05-15 20:16:02 +0000",
       "betternether:soul_plain": "2025-05-15 21:00:37 +0000"
@@ -11142,7 +11147,8 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-05-15 20:45:13 +0000"
+      "mycotoxic_undergrowth": "2025-05-15 20:45:13 +0000",
+      "glistering_meadow": "2025-05-15 21:13:34 +0000"
     },
     "done": false
   },
@@ -11167,6 +11173,12 @@
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-15 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-05-15 21:14:08 +0000"
     },
     "done": true
   },
@@ -11227,6 +11239,12 @@
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-05-15 20:52:25 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-05-15 21:12:23 +0000"
     },
     "done": true
   },

@@ -2938,3 +2938,52 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [21:06:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
 [21:07:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
 [21:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[21:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
+[21:08:08] [Server thread/INFO]: Yamen9z has made the advancement [A New Protector...]
+[21:08:08] [Server thread/INFO]: Yamen9z has made the advancement [The Beginning of An Adventure]
+[21:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[21:08:13] [Server thread/INFO]: Yamen9z has made the advancement [Amateur Archaeologist]
+[21:08:35] [Server thread/INFO]: ak4roo7z has made the advancement [Who is Cutting Onions?]
+[21:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[21:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[21:09:39] [Server thread/INFO]: Yamen9z was doomed to fall by Piglin Brute
+[21:09:39] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_15.05.2025-21.09.39.dat
+[21:09:41] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[21:09:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6084ms or 121 ticks behind
+[21:09:56] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[21:09:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[21:10:10] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:10:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
+[21:10:25] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 583, 51, 987, minecraft:the_nether
+[21:10:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
+[21:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21:10:49] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 676.500000, 32.500000, 1127.500000]
+[21:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
+[21:11:16] [Server thread/INFO]: [Reelx: Teleported ak4roo7z to Reelx]
+[21:11:19] [Server thread/INFO]: [Reelx: Teleported ak4roo7z to Reelx]
+[21:11:22] [Server thread/INFO]: ak4roo7z burned to death
+[21:11:23] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[21:11:30] [Server thread/INFO]: [Reelx: Teleported ak4roo7z to Reelx]
+[21:11:30] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[21:11:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10060ms or 201 ticks behind
+[21:11:35] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 583, 61, 982, minecraft:the_nether
+[21:11:37] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 778.500000, 43.500000, 1303.500000]
+[21:11:41] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:11:42] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[21:11:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3353ms or 67 ticks behind
+[21:12:14] [Server thread/INFO]: Yamen9z has made the advancement [A fortress? No, a citadel!]
+[21:12:23] [Server thread/INFO]: Reelx has made the advancement [A fortress? No, a citadel!]
+[21:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
+[21:12:46] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[21:12:47] [Server thread/INFO]: ak4roo7z has made the advancement [A fortress? No, a citadel!]
+[21:12:48] [Server thread/INFO]: Yamen9z has made the advancement [Drop it like it's hot]
+[21:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[21:13:15] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 940.500000, 34.500000, 1202.500000]
+[21:13:16] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:13:18] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[21:14:08] [Server thread/INFO]: Reelx has completed the challenge [Expansion Unlock: Void's Invasion]
+[21:14:08] [Server thread/INFO]: ak4roo7z has completed the challenge [Expansion Unlock: Void's Invasion]
+[21:14:08] [Server thread/INFO]: Yamen9z has completed the challenge [Oh, The Misery]
+[21:14:10] [Server thread/INFO]: ak4roo7z has completed the challenge [Steeped in Strength]
+[21:15:25] [Server thread/INFO]: Yamen9z has completed the challenge [Steeped in Strength]
