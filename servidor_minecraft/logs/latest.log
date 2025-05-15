@@ -2718,3 +2718,49 @@ io.netty.incubator.codec.quic.QuicClosedChannelException: null
 [20:24:20] [Server thread/INFO]: ak4roo7z left the game
 [20:24:20] [Server thread/INFO]: remove player wand
 [20:24:20] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[20:35:04] [User Authenticator #5/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[20:35:04] [Server thread/INFO]: [Handshake] Sending channel query
+[20:35:04] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[20:35:04] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[20:35:04] [Server thread/INFO]: Yamen9z[/100.108.38.32:58650] logged in with entity id 265576 at (-142.14921945309433, 57.0, 161.67453521368907)
+[20:35:04] [Server thread/INFO]: Sending server config values to client
+[20:35:04] [Server thread/INFO]: Syncing config to Yamen9z (6279238b-041a-4ca2-acde-669be7d696eb)
+[20:35:04] [Server thread/INFO]: Loading config from file...
+[20:35:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:35:05] [Server thread/INFO]: Yamen9z joined the game
+[20:35:05] [Server thread/INFO]: Loading Configs for Sortilege
+[20:35:05] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:35:05] [Server thread/INFO]: PLAYER_JOIN
+[20:35:05] [Server thread/INFO]: add_player wand
+[20:35:05] [Server thread/INFO]: config sent
+[20:35:05] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[20:35:06] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[20:35:07] [User Authenticator #6/INFO]: UUID of player ak4roo7z is 82002a63-ac70-40cc-b1b4-167f5745cdef
+[20:35:07] [Server thread/INFO]: [Handshake] Sending channel query
+[20:35:07] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[20:35:07] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[20:35:07] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Yamen9z -> Global
+[20:35:07] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Yamen9z. Claiming: GRAVE / Robbing: INVENTORY
+[20:35:08] [Server thread/INFO]: ak4roo7z[/100.84.58.4:50890] logged in with entity id 265838 at (-172.39407067328224, 71.0, 157.49655615908404)
+[20:35:08] [Server thread/INFO]: Sending server config values to client
+[20:35:08] [Server thread/INFO]: Syncing config to ak4roo7z (82002a63-ac70-40cc-b1b4-167f5745cdef)
+[20:35:08] [Server thread/INFO]: Loading config from file...
+[20:35:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:35:08] [Server thread/INFO]: ak4roo7z joined the game
+[20:35:08] [Server thread/INFO]: Loading Configs for Sortilege
+[20:35:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:35:08] [Server thread/INFO]: PLAYER_JOIN
+[20:35:08] [Server thread/INFO]: add_player wand
+[20:35:08] [Server thread/INFO]: config sent
+[20:35:08] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
+[20:35:09] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[20:35:10] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[20:35:11] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: ak4roo7z -> Global
+[20:35:11] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player ak4roo7z. Claiming: GRAVE / Robbing: INVENTORY
+[20:35:16] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:35:53] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[20:35:53] [Server thread/INFO]: ak4roo7z lost connection: Disconnected
+[20:35:53] [Server thread/INFO]: ak4roo7z left the game
+[20:35:53] [Server thread/INFO]: remove player wand
+[20:35:53] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef
