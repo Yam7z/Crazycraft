@@ -2827,3 +2827,63 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [20:46:28] [Server thread/INFO]: Yamen9z has made the advancement [Shadow Wizard Money Gang]
 [20:46:33] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 77, 42, 218, minecraft:the_nether
 [20:46:38] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:46:55] [Server thread/INFO]: ak4roo7z has made the advancement [Into Fire]
+[20:47:00] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:47:07] [Server thread/INFO]: [ak4roo7z: Set own game mode to Survival Mode]
+[20:47:35] [Server thread/INFO]: ak4roo7z fell from a high place
+[20:47:38] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:47:41] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:47:41] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:47:48] [Server thread/INFO]: [ak4roo7z: Set own game mode to Creative Mode]
+[20:48:09] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[20:48:11] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[20:48:18] [Server thread/INFO]: Grave belonging to ak4roo7z was detected destroyed at X: 60, Y: 33, Z: 259 / minecraft:the_nether
+[20:48:33] [Server thread/INFO]: Reelx was slain by Hexblade Magister
+[20:48:33] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_15.05.2025-20.48.33.dat
+[20:48:35] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[20:48:36] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[20:48:36] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[20:48:53] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 43, 46, 286, minecraft:the_nether
+[20:48:54] [Server thread/INFO]: Yamen9z was slain by Hexblade Magister
+[20:48:54] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_15.05.2025-20.48.54.dat
+[20:48:55] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[20:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20:49:09] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[20:49:09] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[20:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[20:49:28] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 39, 50, 281, minecraft:the_nether
+[20:49:40] [Server thread/INFO]: [ak4roo7z: Set own game mode to Survival Mode]
+[20:50:54] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[20:51:15] [Server thread/INFO]: Yamen9z has made the advancement [Always Watching]
+[20:51:20] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:51:48] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[20:52:25] [Server thread/INFO]: Reelx has made the advancement [Into Fire]
+[20:53:42] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:43] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:43] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:44] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:44] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:44] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:45] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:45] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:45] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:45] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:46] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:46] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:47] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:47] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:47] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:48] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:48] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:48] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:49] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:49] [Server thread/INFO]: <Reelx> i hate niggers
+[20:53:49] [Server thread/INFO]: <Reelx> i hate niggers
+[20:54:50] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[20:54:50] [Server thread/INFO]: Yamen9z left the game
+[20:54:50] [Server thread/INFO]: remove player wand
+[20:54:50] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[20:55:38] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[20:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[20:55:47] [Server thread/INFO]: <Reelx> i hate niggers
+[20:56:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4224ms or 84 ticks behind

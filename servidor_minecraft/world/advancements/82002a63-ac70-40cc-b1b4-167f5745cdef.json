@@ -620,11 +620,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-15 20:46:54 +0000",
       "minecraft:skeleton": "2025-05-12 21:07:50 +0000",
       "minecraft:hoglin": "2025-05-15 20:39:38 +0000",
       "minecraft:spider": "2025-05-12 19:14:17 +0000",
       "minecraft:piglin_brute": "2025-05-15 20:19:05 +0000",
       "minecraft:phantom": "2025-05-13 21:18:50 +0000",
+      "minecraft:zombified_piglin": "2025-05-15 20:42:25 +0000",
+      "minecraft:piglin": "2025-05-15 20:45:47 +0000",
       "minecraft:enderman": "2025-05-13 20:27:12 +0000",
       "minecraft:zombie": "2025-05-12 18:18:13 +0000",
       "minecraft:zombie_villager": "2025-05-13 20:28:21 +0000"
@@ -7193,6 +7196,7 @@
       "willow_forest": "2025-05-12 22:17:09 +0000",
       "grassy_beach": "2025-05-12 20:16:48 +0000",
       "blackwood_taiga": "2025-05-13 20:05:21 +0000",
+      "mycotoxic_undergrowth": "2025-05-15 20:42:19 +0000",
       "ochard": "2025-05-13 17:44:25 +0000",
       "highland_fields": "2025-05-13 17:43:58 +0000",
       "maple_forest": "2025-05-13 21:08:12 +0000",
@@ -11513,12 +11517,14 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-15 20:45:42 +0000",
       "minecraft:warped_forest": "2025-05-15 20:15:53 +0000"
     },
     "done": false
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2025-05-15 20:52:17 +0000",
       "betternether:old_warped_woods": "2025-05-15 20:16:00 +0000"
     },
     "done": false
@@ -12900,6 +12906,66 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-05-15 20:23:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-05-15 20:42:19 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/conversions/blazeblock_deconstruct": {
+    "criteria": {
+      "has_item": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/blaze_block": {
+    "criteria": {
+      "has_item": "2025-05-15 20:46:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_written_book": {
+    "criteria": {
+      "has_written_book": "2025-05-15 20:49:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-05-15 20:52:10 +0000"
     },
     "done": true
   },

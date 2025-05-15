@@ -4925,11 +4925,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-15 20:46:23 +0000",
       "minecraft:skeleton": "2025-05-12 19:14:11 +0000",
+      "minecraft:hoglin": "2025-05-15 20:50:37 +0000",
       "minecraft:spider": "2025-05-13 20:15:05 +0000",
       "minecraft:piglin_brute": "2025-05-15 20:20:06 +0000",
       "minecraft:creeper": "2025-05-13 20:12:29 +0000",
       "minecraft:phantom": "2025-05-12 21:50:01 +0000",
+      "minecraft:zombified_piglin": "2025-05-15 20:42:47 +0000",
       "minecraft:piglin": "2025-05-15 20:19:13 +0000",
       "minecraft:silverfish": "2025-05-13 19:58:25 +0000",
       "minecraft:enderman": "2025-05-15 20:38:22 +0000",
@@ -6257,6 +6260,7 @@
       "grassy_beach": "2025-05-12 21:59:12 +0000",
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
       "rocky_meadow": "2025-05-13 20:21:21 +0000",
+      "mycotoxic_undergrowth": "2025-05-15 20:42:34 +0000",
       "highland_fields": "2025-05-13 19:21:29 +0000",
       "maple_forest": "2025-05-13 21:08:12 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
@@ -13633,12 +13637,14 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-05-15 20:45:46 +0000",
       "minecraft:warped_forest": "2025-05-15 20:15:52 +0000"
     },
     "done": false
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2025-05-15 20:52:24 +0000",
       "betternether:old_warped_woods": "2025-05-15 20:15:57 +0000"
     },
     "done": false
@@ -14531,6 +14537,12 @@
     },
     "done": true
   },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "mycotoxic_undergrowth": "2025-05-15 20:42:34 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/sign_post_warped": {
     "criteria": {
       "has_the_recipe": "2025-05-15 20:37:23 +0000"
@@ -14585,6 +14597,12 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/hexblade": {
+    "criteria": {
+      "requirement": "2025-05-15 20:46:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_chair": {
     "criteria": {
       "has_warped_chair": "2025-05-15 20:37:23 +0000"
@@ -14636,6 +14654,12 @@
   "betterend:recipes/misc/ender_pearl_to_dust": {
     "criteria": {
       "has_item.minecraft.ender_pearl": "2025-05-15 20:38:36 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:the_watcher": {
+    "criteria": {
+      "requirement": "2025-05-15 20:51:15 +0000"
     },
     "done": true
   },
