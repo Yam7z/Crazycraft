@@ -2987,3 +2987,26 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [21:14:08] [Server thread/INFO]: Yamen9z has completed the challenge [Oh, The Misery]
 [21:14:10] [Server thread/INFO]: ak4roo7z has completed the challenge [Steeped in Strength]
 [21:15:25] [Server thread/INFO]: Yamen9z has completed the challenge [Steeped in Strength]
+[21:20:48] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 1047.500000, 37.500000, 1175.500000]
+[21:20:52] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[21:20:52] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:20:56] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:21:11] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[21:22:38] [Server thread/INFO]: ak4roo7z has made the advancement [Take Aim]
+[21:23:39] [Server thread/INFO]: Yamen9z has made the advancement [A Terrible Fortress]
+[21:23:40] [Server thread/INFO]: ak4roo7z has made the advancement [A Terrible Fortress]
+[21:24:32] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[21:24:32] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_15.05.2025-21.24.32.dat
+[21:24:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[21:24:37] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:24:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[21:24:45] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 1016, 25, 1190, minecraft:the_nether
+[21:26:50] [Server thread/INFO]: Reelx burned to death
+[21:26:50] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_15.05.2025-21.26.50.dat
+[21:26:52] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[21:26:54] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:26:54] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[21:26:55] [Server thread/INFO]: Yamen9z has made the advancement [Through the Gauntlet]
+[21:27:02] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 1027, 16, 1183, minecraft:the_nether
+[21:27:15] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[21:27:16] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]

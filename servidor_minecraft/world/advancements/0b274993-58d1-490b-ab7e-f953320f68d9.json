@@ -11152,6 +11152,12 @@
     },
     "done": false
   },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-05-15 21:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-05-15 20:56:09 +0000"
@@ -11233,6 +11239,12 @@
   "mcdw:recipes/axes/axe_encrusted_anchor": {
     "criteria": {
       "has_gold_block": "2025-05-15 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-05-15 21:24:11 +0000"
     },
     "done": true
   },
@@ -11319,6 +11331,12 @@
       "has_material": "2025-05-15 20:59:33 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-05-15 21:17:19 +0000"
+    },
+    "done": false
   },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
