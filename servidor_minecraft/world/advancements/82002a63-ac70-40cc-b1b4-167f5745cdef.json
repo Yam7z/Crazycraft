@@ -11331,6 +11331,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_10_shieldbearers": {
+    "criteria": {
+      "shieldbearers_killed": "2025-05-15 19:22:50 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_10_buzzcutters": {
     "criteria": {
       "buzzcutters_killed": "2025-05-15 19:19:06 +0000"
