@@ -10345,5 +10345,11 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_concierge": {
+    "criteria": {
+      "conjunctivius_killed": "2025-05-15 19:40:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

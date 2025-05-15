@@ -6265,6 +6265,7 @@
       "grassland": "2025-05-12 21:43:02 +0000",
       "prairie": "2025-05-12 22:02:55 +0000",
       "redwoods": "2025-05-12 22:09:48 +0000",
+      "hyacinth_deeps": "2025-05-15 19:38:47 +0000",
       "lupine_plains": "2025-05-12 22:17:14 +0000"
     },
     "done": false
@@ -6290,6 +6291,7 @@
       "grassland": "2025-05-12 21:43:02 +0000",
       "prairie": "2025-05-12 22:02:55 +0000",
       "redwoods": "2025-05-12 22:09:48 +0000",
+      "hyacinth_deeps": "2025-05-15 19:38:47 +0000",
       "lupine_plains": "2025-05-12 22:17:14 +0000"
     },
     "done": false
@@ -13287,6 +13289,12 @@
   "minecells:unlock/kill_15_runners": {
     "criteria": {
       "runners_killed": "2025-05-15 19:06:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/altars": {
+    "criteria": {
+      "has_item": "2025-05-15 19:37:40 +0000"
     },
     "done": true
   },
