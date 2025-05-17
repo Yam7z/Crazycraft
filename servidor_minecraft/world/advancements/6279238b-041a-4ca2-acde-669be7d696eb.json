@@ -4930,6 +4930,7 @@
       "minecraft:skeleton": "2025-05-12 19:14:11 +0000",
       "minecraft:ghast": "2025-05-17 17:31:46 +0000",
       "minecraft:hoglin": "2025-05-15 20:50:37 +0000",
+      "minecraft:magma_cube": "2025-05-17 18:16:07 +0000",
       "minecraft:spider": "2025-05-13 20:15:05 +0000",
       "minecraft:piglin_brute": "2025-05-15 20:20:06 +0000",
       "minecraft:creeper": "2025-05-13 20:12:29 +0000",
@@ -13659,6 +13660,7 @@
       "betternether:old_fungiwoods": "2025-05-15 21:01:16 +0000",
       "betternether:nether_grasslands": "2025-05-17 18:07:18 +0000",
       "betternether:old_swampland": "2025-05-17 18:13:38 +0000",
+      "betternether:nether_swampland": "2025-05-17 18:16:39 +0000",
       "betternether:magma_land": "2025-05-17 17:37:26 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-05-15 21:01:14 +0000",
       "betternether:nether_jungle": "2025-05-15 21:06:06 +0000",
@@ -15424,6 +15426,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/lamp_led": {
     "criteria": {
       "has_glowstone_dust": "2025-05-17 17:51:19 +0000"
@@ -15586,9 +15600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-05-17 17:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
@@ -15619,6 +15645,18 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-17 17:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_nameless_blade": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
@@ -15670,6 +15708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/brimstone_nectar": {
     "criteria": {
       "has_netherite_scrap": "2025-05-17 16:47:45 +0000"
@@ -15697,6 +15741,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-05-17 17:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
@@ -15766,15 +15816,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blaze": {
     "criteria": {
       "has_blaze_rod": "2025-05-17 17:25:53 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2025-05-17 18:14:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-05-17 17:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
@@ -15832,9 +15900,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/steel_boots": {
     "criteria": {
       "has_steel_ingot": "2025-05-17 17:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
@@ -15964,6 +16044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-17 17:49:44 +0000"
@@ -15973,6 +16059,12 @@
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-05-17 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
@@ -15997,6 +16089,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-17 17:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-17 18:20:32 +0000"
     },
     "done": true
   },
