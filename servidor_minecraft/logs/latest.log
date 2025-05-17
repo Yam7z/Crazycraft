@@ -2480,3 +2480,62 @@ BCLib - Nether BiomeSource (238d291a)
 [20:36:48] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
 [20:36:50] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
 [20:37:08] [Server thread/INFO]: Yamen9z has made the advancement [Create: Estrogen]
+[20:38:42] [Server thread/INFO]: Yamen9z has made the advancement [Fallen Sorcerer]
+[20:40:53] [Server thread/INFO]: Reelx was slain by Husk
+[20:40:53] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-20.40.53.dat
+[20:40:54] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[20:40:57] [Server thread/INFO]: [Reelx: Teleported Reelx to -2269.500000, 51.500000, 98.500000]
+[20:40:58] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian]] from pos class_2338{x=-2309, y=72, z=363}
+[20:41:01] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest]] from pos class_2338{x=-2101, y=78, z=379}
+[20:41:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4051ms or 81 ticks behind
+[20:43:21] [Server thread/INFO]: Reelx was slain by Cave Spider
+[20:43:21] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-20.43.21.dat
+[20:43:24] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[20:43:27] [Server thread/INFO]: [Reelx: Teleported Reelx to -2280.500000, 51.500000, 103.500000]
+[20:43:53] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[20:45:10] [Server thread/INFO]: Reelx was killed by magic whilst trying to escape Cave Spider
+[20:45:10] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-20.45.10.dat
+[20:45:11] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[20:45:14] [Server thread/INFO]: [Reelx: Teleported Reelx to -2327.500000, 49.500000, 126.500000]
+[20:45:17] [Server thread/INFO]: Reelx lost connection: Disconnected
+[20:45:17] [Server thread/INFO]: Reelx left the game
+[20:45:17] [Server thread/INFO]: remove player wand
+[20:45:17] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[20:46:00] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:46:28] [Server thread/INFO]: ak4roo7z was slain by Husk
+[20:46:29] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:46:32] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:46:59] [Server thread/INFO]: ak4roo7z was slain by Skeleton
+[20:47:01] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:47:03] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:47:06] [Server thread/INFO]: Yamen9z has made the advancement [Fortune Seeker]
+[20:47:23] [Server thread/INFO]: ak4roo7z was slain by Husk
+[20:47:25] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:47:27] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:47:35] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[20:47:35] [Server thread/INFO]: Yamen9z left the game
+[20:47:35] [Server thread/INFO]: remove player wand
+[20:47:35] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[20:48:04] [Server thread/INFO]: ak4roo7z was slain by Husk
+[20:48:05] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[20:48:14] [User Authenticator #4/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[20:48:14] [Server thread/INFO]: [Handshake] Sending channel query
+[20:48:14] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[20:48:14] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[20:48:14] [Server thread/INFO]: Yamen9z[/100.108.38.32:56240] logged in with entity id 9556 at (-2333.509443055408, 54.0, -1.6015701667405553)
+[20:48:14] [Server thread/INFO]: Sending server config values to client
+[20:48:14] [Server thread/INFO]: Syncing config to Yamen9z (6279238b-041a-4ca2-acde-669be7d696eb)
+[20:48:14] [Server thread/INFO]: Loading config from file...
+[20:48:14] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:48:14] [Server thread/INFO]: Yamen9z joined the game
+[20:48:14] [Server thread/INFO]: Loading Configs for Sortilege
+[20:48:14] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:48:14] [Server thread/INFO]: PLAYER_JOIN
+[20:48:14] [Server thread/INFO]: add_player wand
+[20:48:14] [Server thread/INFO]: config sent
+[20:48:14] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[20:48:16] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[20:48:17] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Yamen9z -> Global
+[20:48:17] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yamen9z. Claiming: GRAVE / Robbing: INVENTORY
+[20:48:17] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:48:18] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.

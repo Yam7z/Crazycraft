@@ -16409,9 +16409,87 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-17 20:47:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/nichrome_heating_coil": {
+    "criteria": {
+      "has_chrome_ingot": "2025-05-17 20:46:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/chrome_nugget": {
+    "criteria": {
+      "has_chrome_ingot": "2025-05-17 20:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-05-17 20:38:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2025-05-17 20:46:18 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/vanilla_piles/oxeye_daisy": {
     "criteria": {
       "has_flower": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-05-17 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-05-17 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-05-17 20:35:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2025-05-17 20:46:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:42:35 +0000"
     },
     "done": true
   },
@@ -16421,9 +16499,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/chrome_dust": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-05-17 20:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-05-17 20:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
   "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
     "criteria": {
       "has_topaz_upgrade_smithing_template": "2025-05-17 20:32:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
     },
     "done": true
   },
@@ -16433,9 +16553,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/chrome_plate": {
+    "criteria": {
+      "has_tag_c_chromium_ingots": "2025-05-17 20:46:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/chrome_storage_block": {
+    "criteria": {
+      "has_chrome_ingot": "2025-05-17 20:46:08 +0000"
     },
     "done": true
   },
