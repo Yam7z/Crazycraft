@@ -2539,3 +2539,16 @@ BCLib - Nether BiomeSource (238d291a)
 [20:48:17] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yamen9z. Claiming: GRAVE / Robbing: INVENTORY
 [20:48:17] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
 [20:48:18] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[20:49:13] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -949.500000, 64.500000, 969.500000]
+[20:49:18] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[20:51:10] [Server thread/INFO]: Yamen9z has made the advancement [Wither You Want It Or Not]
+[20:51:33] [Server thread/INFO]: Yamen9z has made the advancement [Voluntary Exile]
+[20:51:47] [Server thread/INFO]: [Yamen9z: Gave 1 [Milk Bucket] to 2]
+[20:52:00] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[20:52:00] [Server thread/INFO]: Yamen9z left the game
+[20:52:00] [Server thread/INFO]: remove player wand
+[20:52:00] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[20:52:17] [Server thread/INFO]: ak4roo7z lost connection: Disconnected
+[20:52:17] [Server thread/INFO]: ak4roo7z left the game
+[20:52:17] [Server thread/INFO]: remove player wand
+[20:52:17] [Server thread/INFO]: Updating all forceload tickets for 82002a63-ac70-40cc-b1b4-167f5745cdef

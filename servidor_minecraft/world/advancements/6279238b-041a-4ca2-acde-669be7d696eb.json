@@ -4928,6 +4928,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-15 20:46:23 +0000",
+      "minecraft:pillager": "2025-05-17 20:51:33 +0000",
       "minecraft:skeleton": "2025-05-12 19:14:11 +0000",
       "minecraft:ghast": "2025-05-17 17:31:46 +0000",
       "minecraft:hoglin": "2025-05-15 20:50:37 +0000",
@@ -16409,15 +16410,87 @@
     },
     "done": true
   },
-  "endrem:main/old_eye": {
+  "promenade:recipes/crafting/vanilla_piles/oxeye_daisy": {
     "criteria": {
-      "old_eye": "2025-05-17 20:47:06 +0000"
+      "has_flower": "2025-05-17 20:31:13 +0000"
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/prismarine": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_item": "2025-05-17 20:46:22 +0000"
+      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
+    "criteria": {
+      "has_topaz_upgrade_smithing_template": "2025-05-17 20:32:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-05-17 20:35:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-05-17 20:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-05-17 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 20:36:09 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-05-17 20:37:08 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-05-17 20:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:42:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:42:35 +0000"
     },
     "done": true
   },
@@ -16433,123 +16506,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/magical_eye": {
-    "criteria": {
-      "magical_eye": "2025-05-17 20:38:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
-    "criteria": {
-      "has_diamond_hoe": "2025-05-17 20:46:18 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/oxeye_daisy": {
-    "criteria": {
-      "has_flower": "2025-05-17 20:31:13 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/roasted_sunflower_seeds": {
-    "criteria": {
-      "has_sunflower": "2025-05-17 20:42:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-05-17 20:36:09 +0000"
-    },
-    "done": true
-  },
-  "estrogen:root": {
-    "criteria": {
-      "root": "2025-05-17 20:37:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
-    "criteria": {
-      "has_tag_minecraft_wooden_stairs": "2025-05-17 20:35:49 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
-    "criteria": {
-      "has_diamond_hoe": "2025-05-17 20:46:18 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-05-17 20:42:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/grinder/chrome_dust": {
     "criteria": {
       "has_tag_c_chromium_ingots": "2025-05-17 20:46:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
-    "criteria": {
-      "has_birch_stairs": "2025-05-17 20:35:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-05-17 20:42:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-17 20:36:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
-    "criteria": {
-      "has_topaz_upgrade_smithing_template": "2025-05-17 20:32:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
     },
     "done": true
   },
@@ -16559,15 +16518,159 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/storage_block/chrome_storage_block": {
     "criteria": {
       "has_chrome_ingot": "2025-05-17 20:46:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2025-05-17 20:46:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2025-05-17 20:46:18 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/prismarine": {
+    "criteria": {
+      "has_item": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-17 20:46:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-05-17 20:47:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-17 20:51:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-05-17 20:51:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:milk": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_milk_bucket": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-17 20:51:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-05-17 20:51:34 +0000"
     },
     "done": true
   },
