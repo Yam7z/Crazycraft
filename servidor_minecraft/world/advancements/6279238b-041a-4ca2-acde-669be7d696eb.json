@@ -15383,6 +15383,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-05-17 16:59:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/stalagnate_log_stem": {
     "criteria": {
       "has_stalagnate_stem": "2025-05-17 16:42:19 +0000"
@@ -15392,6 +15398,12 @@
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-05-17 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 16:56:38 +0000"
     },
     "done": true
   },
