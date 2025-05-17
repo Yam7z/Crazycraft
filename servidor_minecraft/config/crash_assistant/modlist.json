@@ -3,9 +3,9 @@
     "modId": "aaa_particles",
     "version": "1.20.1-1.4.7"
   },
-  "accessories-fabric-1.0.0-beta.41+1.20.1.jar": {
+  "accessories-fabric-1.0.0-beta.47+1.20.1.jar": {
     "modId": "accessories",
-    "version": "1.0.0-beta.41+1.20.1"
+    "version": "1.0.0-beta.47+1.20.1"
   },
   "accessories_tclayer-3.8.1-beta.14+1.20.1.jar": {
     "modId": "tclayer",
@@ -262,6 +262,10 @@
     "modId": "bookshelf",
     "version": "20.1.6"
   },
+  "bossultimatum-fabric-1.0.0-1.20.1.jar": {
+    "modId": "bossultimatum",
+    "version": "1.0.0"
+  },
   "Botania-1.20.1-447-FABRIC.jar": {
     "modId": "botania",
     "version": "1.20.1-447-FABRIC"
@@ -492,9 +496,9 @@
     "modId": "drippyloadingscreen",
     "version": "3.0.8"
   },
-  "dummmmmmy-1.20-1.8.10-fabric.jar": {
+  "dummmmmmy-1.20-2.0.6-fabric.jar": {
     "modId": "dummmmmmy",
-    "version": "1.20-1.8.10"
+    "version": "1.20-2.0.6"
   },
   "DungeonsArise-1.20.1-2.1.57-fabric-release.jar": {
     "modId": "dungeons_arise",
