@@ -2453,3 +2453,32 @@ BCLib - Nether BiomeSource (17e76637)
 [16:42:35] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
 [16:42:35] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
 [16:42:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3140ms or 62 ticks behind
+[16:48:31] [User Authenticator #3/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:48:32] [Server thread/INFO]: [Handshake] Sending channel query
+[16:48:32] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[16:48:32] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[16:48:32] [Server thread/INFO]: Reelx[/100.95.52.95:50715] logged in with entity id 1849 at (-950.7896555091963, 64.0, 953.3206131392736)
+[16:48:32] [Server thread/INFO]: Sending server config values to client
+[16:48:32] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[16:48:32] [Server thread/INFO]: Loading config from file...
+[16:48:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:48:32] [Server thread/INFO]: Reelx joined the game
+[16:48:32] [Server thread/INFO]: Loading Configs for Sortilege
+[16:48:32] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[16:48:33] [Server thread/INFO]: PLAYER_JOIN
+[16:48:33] [Server thread/INFO]: add_player wand
+[16:48:33] [Server thread/INFO]: config sent
+[16:48:33] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[16:48:34] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[16:48:36] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[16:48:36] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[16:48:38] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[16:52:27] [Server thread/INFO]: Reelx has made the advancement [Arcane Empowerment]
+[16:53:22] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[16:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[16:53:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8153ms or 163 ticks behind
+[16:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[16:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4376ms or 87 ticks behind
+[16:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
+[16:55:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[16:55:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4086ms or 81 ticks behind

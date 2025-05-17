@@ -15371,5 +15371,53 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-17 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-17 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_log_stem": {
+    "criteria": {
+      "has_stalagnate_stem": "2025-05-17 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-17 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-05-17 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-17 16:47:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_log": {
+    "criteria": {
+      "has_stalagnate_stem": "2025-05-17 16:42:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_bowl": {
+    "criteria": {
+      "has_stalagnate_stem": "2025-05-17 16:42:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
