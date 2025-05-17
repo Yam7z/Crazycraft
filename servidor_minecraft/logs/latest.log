@@ -3242,3 +3242,31 @@ BCLib - Nether BiomeSource (17e76637)
 [18:55:49] [Server thread/INFO]: [Yamen9z: Gave 1000 experience points to 3 players]
 [18:57:33] [Server thread/INFO]: [Yamen9z: Gave 4 [Bottle o' Enchanting] to Yamen9z]
 [18:58:30] [Server thread/INFO]: [Yamen9z: Gave 1 [Banner Pattern] to Yamen9z]
+[19:00:39] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[19:01:01] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[19:04:55] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[19:05:12] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[19:05:33] [Server thread/INFO]: Reelx lost connection: Disconnected
+[19:05:33] [Server thread/INFO]: Reelx left the game
+[19:05:33] [Server thread/INFO]: remove player wand
+[19:05:33] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[19:10:08] [User Authenticator #8/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[19:10:08] [Server thread/INFO]: [Handshake] Sending channel query
+[19:10:08] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[19:10:08] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[19:10:08] [Server thread/INFO]: Reelx[/100.95.52.95:51526] logged in with entity id 64887 at (-945.9653690591684, 64.0, 959.0932697490775)
+[19:10:08] [Server thread/INFO]: Sending server config values to client
+[19:10:08] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[19:10:08] [Server thread/INFO]: Loading config from file...
+[19:10:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:10:09] [Server thread/INFO]: Reelx joined the game
+[19:10:09] [Server thread/INFO]: Loading Configs for Sortilege
+[19:10:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:10:09] [Server thread/INFO]: PLAYER_JOIN
+[19:10:09] [Server thread/INFO]: add_player wand
+[19:10:09] [Server thread/INFO]: config sent
+[19:10:09] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[19:10:10] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[19:10:11] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[19:10:11] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[19:10:13] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.

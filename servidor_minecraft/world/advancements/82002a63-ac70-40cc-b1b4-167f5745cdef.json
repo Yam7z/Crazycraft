@@ -13973,9 +13973,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-05-17 19:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-05-17 19:03:07 +0000"
     },
     "done": true
   },
@@ -14009,6 +14021,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
@@ -14036,6 +14054,12 @@
   "twigs:recipes/silt/silt_brick": {
     "criteria": {
       "has_item": "2025-05-17 17:43:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-05-17 19:07:25 +0000"
     },
     "done": true
   },
@@ -14159,9 +14183,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 19:05:27 +0000"
     },
     "done": true
   },
@@ -14186,6 +14222,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-17 19:07:25 +0000"
     },
     "done": true
   },
@@ -14243,6 +14285,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/silt/silt_from_silt_balls": {
     "criteria": {
       "has_item": "2025-05-17 17:43:50 +0000"
@@ -14258,6 +14306,12 @@
   "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
       "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 19:07:47 +0000"
     },
     "done": true
   },
@@ -14342,6 +14396,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-05-17 18:02:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-17 19:07:25 +0000"
     },
     "done": true
   },
@@ -14578,6 +14638,12 @@
       "darkin_blade": "2025-05-17 17:35:35 +0000"
     },
     "done": false
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
   },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
