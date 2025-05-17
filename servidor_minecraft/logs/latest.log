@@ -3204,3 +3204,32 @@ BCLib - Nether BiomeSource (17e76637)
 [18:37:46] [Server thread/INFO]: [Reelx: Teleported 3 entities to Reelx]
 [18:37:46] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
 [18:37:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[18:39:26] [Server thread/INFO]: [Reelx: Gave 20 [Diamond] to Reelx]
+[18:40:55] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[18:41:20] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[18:41:55] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[18:41:55] [Server thread/INFO]: Yamen9z left the game
+[18:41:55] [Server thread/INFO]: remove player wand
+[18:41:55] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[18:41:59] [User Authenticator #7/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[18:41:59] [Server thread/INFO]: [Handshake] Sending channel query
+[18:41:59] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[18:41:59] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[18:42:00] [Server thread/INFO]: Yamen9z[/100.108.38.32:54702] logged in with entity id 61326 at (-948.9670683852268, 65.875, 960.9111077177869)
+[18:42:00] [Server thread/INFO]: Sending server config values to client
+[18:42:00] [Server thread/INFO]: Syncing config to Yamen9z (6279238b-041a-4ca2-acde-669be7d696eb)
+[18:42:00] [Server thread/INFO]: Loading config from file...
+[18:42:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:42:00] [Server thread/INFO]: Yamen9z joined the game
+[18:42:00] [Server thread/INFO]: Loading Configs for Sortilege
+[18:42:00] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:42:00] [Server thread/INFO]: PLAYER_JOIN
+[18:42:00] [Server thread/INFO]: add_player wand
+[18:42:00] [Server thread/INFO]: config sent
+[18:42:00] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[18:42:02] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[18:42:02] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Yamen9z -> Global
+[18:42:02] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Yamen9z. Claiming: GRAVE / Robbing: INVENTORY
+[18:42:03] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[18:48:02] [Server thread/INFO]: [Reelx: Gave 2 [Diamond] to Reelx]
+[18:49:23] [Server thread/INFO]: Yamen9z has completed the challenge [Cover Me in Debris]
