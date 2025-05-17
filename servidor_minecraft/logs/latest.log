@@ -2729,3 +2729,267 @@ BCLib - Nether BiomeSource (17e76637)
 [17:47:07] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 651, 24, -24, minecraft:the_nether
 [17:47:07] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 658, 21, -18, minecraft:the_nether
 [17:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[17:47:29] [Server thread/INFO]: ak4roo7z was slain by Nether Gauntlet
+[17:47:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:47:33] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:47:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[17:47:33] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:47:36] [Server thread/INFO]: Villager class_1646['Lionel'/27, l='ServerLevel[world]', x=-8.83, y=70.00, z=25.30] died, message: 'Lionel hit the ground too hard'
+[17:47:36] [Server thread/INFO]: Named entity class_1646['Lionel'/27, l='ServerLevel[world]', x=-8.83, y=70.00, z=25.30] died: Lionel hit the ground too hard
+[17:47:42] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 657, 20, -14, minecraft:the_nether
+[17:47:57] [Server thread/INFO]: Yamen9z was slain by Nether Gauntlet
+[17:47:57] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_17.05.2025-17.47.57.dat
+[17:48:00] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:48:06] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:48:06] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:48:12] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:48:12] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.48.12.dat
+[17:48:13] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:48:15] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 645, 21, 4, minecraft:the_nether
+[17:48:15] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:48:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:48:15] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:48:35] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 655, 24, -25, minecraft:the_nether
+[17:48:38] [Server thread/INFO]: Yamen9z was slain by Nether Gauntlet
+[17:48:38] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_17.05.2025-17.48.38.dat
+[17:48:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:48:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:48:42] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:48:50] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 634, 22, 1, minecraft:the_nether
+[17:49:28] [Server thread/INFO]: Reelx was doomed to fall by Nether Gauntlet
+[17:49:28] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.49.28.dat
+[17:49:29] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:49:31] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:49:31] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:49:34] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:49:44] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 639, 22, -19, minecraft:the_nether
+[17:49:46] [Server thread/INFO]: Yamen9z was slain by Nether Gauntlet
+[17:49:46] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_17.05.2025-17.49.46.dat
+[17:49:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:49:49] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:49:49] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:49:50] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:49:50] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:49:54] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:49:54] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:49:55] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 637, 39, -21, minecraft:the_nether
+[17:50:33] [Server thread/INFO]: Yamen9z was slain by Nether Gauntlet
+[17:50:33] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_17.05.2025-17.50.33.dat
+[17:50:34] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:50:37] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:50:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:50:44] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[17:50:47] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 642, 38, -20, minecraft:the_nether
+[17:50:52] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[17:51:08] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:51:08] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.51.08.dat
+[17:51:09] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:51:10] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:12] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:51:12] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:19] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 637, 38, -12, minecraft:the_nether
+[17:51:34] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:51:34] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.51.34.dat
+[17:51:36] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:37] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:37] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:51:37] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:51:43] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:51:44] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:51:44] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:51:45] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:48] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:51:48] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:49] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:51:49] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:51:55] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:56] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:51:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:51:57] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:52:01] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:52:01] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:52:01] [Server thread/INFO]: ak4roo7z was slain by Nether Gauntlet
+[17:52:02] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:52:03] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:52:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:52:05] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:52:06] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:52:22] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:52:23] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:52:24] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:52:25] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to 632.500000, 38.000000, -6.500000]
+[17:52:32] [Server thread/INFO]: [Reelx: Teleported Reelx to 638.500000, 37.500000, -2.500000]
+[17:52:32] [Server thread/INFO]: [Reelx: Teleported Reelx to 638.500000, 37.500000, -2.500000]
+[17:52:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[17:52:38] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 645, 39, -15, minecraft:the_nether
+[17:52:43] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:52:44] [Server thread/INFO]: Villager class_1646['Francis'/1, l='ServerLevel[world]', x=-6.45, y=68.00, z=9.70] died, message: 'Francis was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Francis'/1, l='ServerLevel[world]', x=-6.45, y=68.00, z=9.70] died: Francis was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Colin'/2, l='ServerLevel[world]', x=-5.50, y=73.00, z=24.50] died, message: 'Colin was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Colin'/2, l='ServerLevel[world]', x=-5.50, y=73.00, z=24.50] died: Colin was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Melanie'/3, l='ServerLevel[world]', x=-4.70, y=236.00, z=3.70] died, message: 'Melanie was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Melanie'/3, l='ServerLevel[world]', x=-4.70, y=236.00, z=3.70] died: Melanie was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Felipe'/4, l='ServerLevel[world]', x=-4.68, y=236.00, z=3.05] died, message: 'Felipe was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Felipe'/4, l='ServerLevel[world]', x=-4.68, y=236.00, z=3.05] died: Felipe was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Andrea'/5, l='ServerLevel[world]', x=-4.08, y=236.00, z=3.70] died, message: 'Andrea was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Andrea'/5, l='ServerLevel[world]', x=-4.08, y=236.00, z=3.70] died: Andrea was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Carissa'/6, l='ServerLevel[world]', x=24.70, y=235.00, z=29.30] died, message: 'Carissa was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Carissa'/6, l='ServerLevel[world]', x=24.70, y=235.00, z=29.30] died: Carissa was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Dino'/7, l='ServerLevel[world]', x=-7.46, y=74.00, z=25.19] died, message: 'Dino was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Dino'/7, l='ServerLevel[world]', x=-7.46, y=74.00, z=25.19] died: Dino was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Josue'/8, l='ServerLevel[world]', x=-4.30, y=73.00, z=33.30] died, message: 'Josue was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Josue'/8, l='ServerLevel[world]', x=-4.30, y=73.00, z=33.30] died: Josue was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Clay'/10, l='ServerLevel[world]', x=-26.70, y=247.00, z=-16.50] died, message: 'Clay was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Clay'/10, l='ServerLevel[world]', x=-26.70, y=247.00, z=-16.50] died: Clay was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Kyle'/11, l='ServerLevel[world]', x=-25.50, y=247.00, z=-5.30] died, message: 'Kyle was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Kyle'/11, l='ServerLevel[world]', x=-25.50, y=247.00, z=-5.30] died: Kyle was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Gregorio'/12, l='ServerLevel[world]', x=-24.68, y=247.06, z=-6.84] died, message: 'Gregorio was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Gregorio'/12, l='ServerLevel[world]', x=-24.68, y=247.06, z=-6.84] died: Gregorio was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Ulysses'/16, l='ServerLevel[world]', x=20.37, y=42.05, z=32.50] died, message: 'Ulysses was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Ulysses'/16, l='ServerLevel[world]', x=20.37, y=42.05, z=32.50] died: Ulysses was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Leora'/18, l='ServerLevel[world]', x=-43.62, y=62.52, z=44.64] died, message: 'Leora was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Leora'/18, l='ServerLevel[world]', x=-43.62, y=62.52, z=44.64] died: Leora was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Neta'/20, l='ServerLevel[world]', x=-24.50, y=73.00, z=37.50] died, message: 'Neta was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Neta'/20, l='ServerLevel[world]', x=-24.50, y=73.00, z=37.50] died: Neta was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Cliff'/21, l='ServerLevel[world]', x=-19.50, y=73.00, z=42.50] died, message: 'Cliff was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Cliff'/21, l='ServerLevel[world]', x=-19.50, y=73.00, z=42.50] died: Cliff was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Gregory'/22, l='ServerLevel[world]', x=-7.16, y=68.00, z=10.22] died, message: 'Gregory was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Gregory'/22, l='ServerLevel[world]', x=-7.16, y=68.00, z=10.22] died: Gregory was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Jewell'/23, l='ServerLevel[world]', x=-3.50, y=73.00, z=33.50] died, message: 'Jewell was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Jewell'/23, l='ServerLevel[world]', x=-3.50, y=73.00, z=33.50] died: Jewell was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Ulrike'/24, l='ServerLevel[world]', x=-8.45, y=74.00, z=23.74] died, message: 'Ulrike was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Ulrike'/24, l='ServerLevel[world]', x=-8.45, y=74.00, z=23.74] died: Ulrike was killed
+[17:52:44] [Server thread/INFO]: Villager class_1646['Erich'/28, l='ServerLevel[world]', x=33.49, y=66.00, z=63.26] died, message: 'Erich was killed'
+[17:52:44] [Server thread/INFO]: Named entity class_1646['Erich'/28, l='ServerLevel[world]', x=33.49, y=66.00, z=63.26] died: Erich was killed
+[17:52:45] [Server thread/INFO]: Villager class_1646['Dino'/67, l='ServerLevel[world]', x=-60.93, y=94.00, z=-144.15] died, message: 'Dino was killed'
+[17:52:45] [Server thread/INFO]: Named entity class_1646['Dino'/67, l='ServerLevel[world]', x=-60.93, y=94.00, z=-144.15] died: Dino was killed
+[17:52:45] [Server thread/INFO]: Villager class_1646['Ailene'/110, l='ServerLevel[world]', x=152.50, y=65.00, z=94.50] died, message: 'Ailene was killed'
+[17:52:45] [Server thread/INFO]: Named entity class_1646['Ailene'/110, l='ServerLevel[world]', x=152.50, y=65.00, z=94.50] died: Ailene was killed
+[17:52:45] [Server thread/WARN]: java.base/java.lang.Thread.getStackTrace(Thread.java:1619)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.handler$gpe000$prominent$checkSetAbsorbtionEntity(class_1657.java:42384)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6073(class_1657.java)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6074(class_1657.java:1003)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5643(class_1309.java:1157)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_5643(class_1657.java:928)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3222.method_5643(class_3222.java:732)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5768(class_1309.java:277)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13430(class_3075.java:32)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13431(class_3075.java:25)
+[17:52:45] [Server thread/WARN]: knot//com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_2170.redirect$zok000$architectury$performCommand(class_2170.java:1545)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_2170.method_9249(class_2170.java:287)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3244.method_45010(class_3244.java:1341)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3244.method_44356(class_3244.java:1321)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5386(class_1255.java:67)
+[17:52:45] [Server thread/WARN]: java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3738.run(class_3738.java:18)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_18859(class_1255.java:156)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_4093.method_18859(class_4093.java:23)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_16075(class_1255.java:130)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5383(class_1255.java:115)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
+[17:52:45] [Server thread/WARN]: java.base/java.lang.Thread.run(Thread.java:840)
+[17:52:45] [Server thread/WARN]: A mod tried to set NaN absorption to entity class_3222['ak4roo7z'/550, l='ServerLevel[world]', x=632.67, y=38.00, z=-6.70]!
+[17:52:45] [Server thread/INFO]: ak4roo7z was killed
+[17:52:45] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:52:45] [Server thread/WARN]: java.base/java.lang.Thread.getStackTrace(Thread.java:1619)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.handler$gpe000$prominent$checkSetAbsorbtionEntity(class_1657.java:42384)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6073(class_1657.java)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6074(class_1657.java:1003)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5643(class_1309.java:1163)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_5643(class_1657.java:928)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3222.method_5643(class_3222.java:732)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5768(class_1309.java:277)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13430(class_3075.java:32)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13431(class_3075.java:25)
+[17:52:45] [Server thread/WARN]: knot//com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_2170.redirect$zok000$architectury$performCommand(class_2170.java:1545)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_2170.method_9249(class_2170.java:287)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3244.method_45010(class_3244.java:1341)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3244.method_44356(class_3244.java:1321)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5386(class_1255.java:67)
+[17:52:45] [Server thread/WARN]: java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3738.run(class_3738.java:18)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_18859(class_1255.java:156)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_4093.method_18859(class_4093.java:23)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_16075(class_1255.java:130)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5383(class_1255.java:115)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
+[17:52:45] [Server thread/WARN]: java.base/java.lang.Thread.run(Thread.java:840)
+[17:52:45] [Server thread/WARN]: A mod tried to set NaN absorption to entity class_3222['Reelx'/21031, l='ServerLevel[world]', x=637.71, y=38.00, z=-19.95]!
+[17:52:45] [Server thread/INFO]: Reelx was killed
+[17:52:45] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.52.45.dat
+[17:52:45] [Server thread/WARN]: java.base/java.lang.Thread.getStackTrace(Thread.java:1619)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.handler$gpe000$prominent$checkSetAbsorbtionEntity(class_1657.java:42384)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6073(class_1657.java)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6074(class_1657.java:1003)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5643(class_1309.java:1163)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1657.method_5643(class_1657.java:928)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3222.method_5643(class_3222.java:732)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5768(class_1309.java:277)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13430(class_3075.java:32)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13431(class_3075.java:25)
+[17:52:45] [Server thread/WARN]: knot//com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_2170.redirect$zok000$architectury$performCommand(class_2170.java:1545)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_2170.method_9249(class_2170.java:287)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3244.method_45010(class_3244.java:1341)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3244.method_44356(class_3244.java:1321)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5386(class_1255.java:67)
+[17:52:45] [Server thread/WARN]: java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_3738.run(class_3738.java:18)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_18859(class_1255.java:156)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_4093.method_18859(class_4093.java:23)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_16075(class_1255.java:130)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5383(class_1255.java:115)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
+[17:52:45] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
+[17:52:45] [Server thread/WARN]: java.base/java.lang.Thread.run(Thread.java:840)
+[17:52:45] [Server thread/WARN]: A mod tried to set NaN absorption to entity class_3222['Yamen9z'/124, l='ServerLevel[world]', x=637.71, y=38.00, z=-19.88]!
+[17:52:45] [Server thread/INFO]: Yamen9z was killed
+[17:52:45] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_17.05.2025-17.52.45.dat
+[17:52:45] [Server thread/INFO]: [Reelx: Killed 456 entities]
+[17:52:45] [Server thread/ERROR]: Failed to generate grave at X: 637, Y: 38, Z: -20, minecraft:the_nether. Grave block placement failed
+[17:52:45] [Server thread/INFO]: Dropping items on ground instead of in grave
+[17:52:46] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:52:46] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:52:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:52:48] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:52:53] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[17:52:57] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:52:58] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:52:59] [Server thread/INFO]: [Reelx: Teleported Reelx to 637.500000, 38.500000, -20.500000]
+[17:53:04] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 637, 38, -20, minecraft:the_nether
+[17:53:17] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 637.500000, 38.500000, -19.500000]
+[17:53:19] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:53:19] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:53:34] [Server thread/INFO]: <Reelx> ttt
+[17:53:37] [Server thread/INFO]: <ak4roo7z> [p;lsf
+[17:53:40] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[17:55:13] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:56:07] [Server thread/INFO]: [Reelx: Teleported Reelx to 453.500000, 33.500000, 384.500000]
+[17:56:11] [Server thread/INFO]: [Reelx: Teleported Yamen9z to Reelx]
+[17:56:13] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[17:56:27] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 637.500000, 37.500000, -17.500000]
+[17:56:28] [Server thread/INFO]: [Reelx: Teleported Reelx to -170.500000, 39.500000, 171.500000]
+[17:56:36] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:56:41] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[17:57:30] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[17:57:32] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]

@@ -7206,6 +7206,7 @@
       "boreal_forest": "2025-05-13 21:07:52 +0000",
       "glistering_meadow": "2025-05-15 21:13:33 +0000",
       "blackstone_basin": "2025-05-15 21:32:48 +0000",
+      "bamboo_forest": "2025-05-17 17:52:32 +0000",
       "temperate_grove": "2025-05-12 22:12:07 +0000",
       "cold_river": "2025-05-13 21:08:19 +0000",
       "grassland": "2025-05-12 20:15:25 +0000",
@@ -7230,6 +7231,7 @@
       "magnolia_highlands": "2025-05-12 22:17:51 +0000",
       "deciduous_forest": "2025-05-12 21:06:44 +0000",
       "boreal_forest": "2025-05-13 21:07:52 +0000",
+      "bamboo_forest": "2025-05-17 17:52:32 +0000",
       "temperate_grove": "2025-05-12 22:12:07 +0000",
       "cold_river": "2025-05-13 21:08:19 +0000",
       "grassland": "2025-05-12 20:15:25 +0000",
@@ -13949,6 +13951,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-17 17:29:59 +0000"
@@ -13973,9 +13981,21 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
       "has_material": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
     },
     "done": true
   },
@@ -14039,6 +14059,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
     "criteria": {
       "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
@@ -14090,6 +14116,12 @@
   "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
     "criteria": {
       "has_ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
     },
     "done": true
   },
