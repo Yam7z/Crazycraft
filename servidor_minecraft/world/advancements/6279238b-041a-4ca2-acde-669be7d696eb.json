@@ -594,6 +594,7 @@
       "minecraft:grove": "2025-05-13 21:11:11 +0000",
       "minecraft:forest": "2025-05-12 17:57:02 +0000",
       "minecraft:frozen_ocean": "2025-05-13 21:14:02 +0000",
+      "minecraft:desert": "2025-05-17 20:24:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-13 20:25:12 +0000",
       "minecraft:meadow": "2025-05-12 22:14:08 +0000",
       "minecraft:plains": "2025-05-13 19:58:07 +0000"
@@ -4937,6 +4938,8 @@
       "minecraft:phantom": "2025-05-12 21:50:01 +0000",
       "minecraft:zombified_piglin": "2025-05-15 20:42:47 +0000",
       "minecraft:wither_skeleton": "2025-05-15 21:12:02 +0000",
+      "minecraft:husk": "2025-05-17 20:30:47 +0000",
+      "minecraft:cave_spider": "2025-05-17 20:25:27 +0000",
       "minecraft:piglin": "2025-05-15 20:19:13 +0000",
       "minecraft:silverfish": "2025-05-13 19:58:25 +0000",
       "minecraft:enderman": "2025-05-15 20:38:22 +0000",
@@ -16292,33 +16295,21 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
-    "criteria": {
-      "has_diamond_axe": "2025-05-17 19:02:23 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-05-17 18:51:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-05-17 18:49:23 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
-      "has_diamond_axe": "2025-05-17 19:02:23 +0000"
+      "has_item": "2025-05-17 18:49:23 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+  "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
-      "has_experience_bottle": "2025-05-17 18:57:33 +0000"
+      "has_spider_eye": "2025-05-17 18:51:50 +0000"
     },
     "done": true
   },
@@ -16334,9 +16325,117 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
     "criteria": {
-      "has_item": "2025-05-17 18:49:23 +0000"
+      "has_experience_bottle": "2025-05-17 18:57:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-17 19:02:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-05-17 19:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-17 19:55:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "flower": "2025-05-17 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "botania:main/pollidisiac_pickup": {
+    "criteria": {
+      "pollidisiac": "2025-05-17 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/floating_pollidisiac": {
+    "criteria": {
+      "has_item": "2025-05-17 19:56:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
+    "criteria": {
+      "has_item": "2025-05-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/caduceus": {
+    "criteria": {
+      "has_item": "2025-05-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_horn": {
+    "criteria": {
+      "has_item": "2025-05-17 19:57:27 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_heart": {
+    "criteria": {
+      "has_item": "2025-05-17 19:57:32 +0000"
+    },
+    "done": true
+  },
+  "adventurez:gilded_netherite_armor": {
+    "criteria": {
+      "dragon_armor": "2025-05-17 20:14:30 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-17 20:24:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-05-17 20:25:15 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/oxeye_daisy": {
+    "criteria": {
+      "has_flower": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/topaz_upgrade_smithing_template": {
+    "criteria": {
+      "has_topaz_upgrade_smithing_template": "2025-05-17 20:32:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-17 20:31:13 +0000"
     },
     "done": true
   },

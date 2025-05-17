@@ -594,6 +594,7 @@
       "minecraft:grove": "2025-05-13 21:11:20 +0000",
       "minecraft:forest": "2025-05-12 18:46:08 +0000",
       "minecraft:frozen_ocean": "2025-05-13 21:14:12 +0000",
+      "minecraft:desert": "2025-05-17 20:24:55 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-15 19:48:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-13 20:25:20 +0000",
       "minecraft:meadow": "2025-05-12 22:16:32 +0000",
@@ -3789,6 +3790,7 @@
       "minecraft:phantom": "2025-05-12 21:50:19 +0000",
       "minecraft:zombified_piglin": "2025-05-15 20:51:06 +0000",
       "minecraft:wither_skeleton": "2025-05-15 21:12:05 +0000",
+      "minecraft:cave_spider": "2025-05-17 20:30:35 +0000",
       "minecraft:piglin": "2025-05-15 20:47:15 +0000",
       "minecraft:enderman": "2025-05-13 16:21:40 +0000",
       "minecraft:zombie": "2025-05-12 19:08:10 +0000"
@@ -12401,12 +12403,6 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2025-05-17 18:51:47 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-05-17 18:37:06 +0000"
@@ -12416,6 +12412,102 @@
   "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
     "criteria": {
       "has_item": "2025-05-17 18:49:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 18:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-17 20:02:41 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-17 20:24:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-05-17 20:25:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-05-17 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-17 20:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-17 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/allium": {
+    "criteria": {
+      "has_flower": "2025-05-17 20:33:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_sunflower_seeds": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:31:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-17 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-17 20:33:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-05-17 20:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-17 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/red_tulip": {
+    "criteria": {
+      "has_flower": "2025-05-17 20:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-17 20:31:40 +0000"
     },
     "done": true
   },

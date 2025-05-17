@@ -1,4 +1,4 @@
------------------RIVER_BIOMES_VARIANT-------------------- = {}
+-----------------RIVER_BIOMES-------------------- = {}
 
 #Config for Regions Unexplored secondary region!
 #NOTICE: Make sure 'enable_custom_regions' is enabled in Common configs or this config will have no effect on generation!
@@ -184,34 +184,3 @@
 	neutral_peak_biome_variant = "regions_unexplored:mountains"
 	warm_peak_biome_variant = "minecraft:stony_peaks"
 	hot_peak_biome_variant = "regions_unexplored:arid_mountains"
-[-----------------RIVER_BIOMES--------------------]
-	#icy_biomes
-	icy_arid = "minecraft:frozen_river"
-	icy_dry = "minecraft:frozen_river"
-	icy_neutral = "minecraft:frozen_river"
-	icy_wet = "minecraft:frozen_river"
-	icy_humid = "minecraft:frozen_river"
-	#cool_biomes
-	cool_arid = "regions_unexplored:cold_river"
-	cool_dry = "regions_unexplored:cold_river"
-	cool_neutral = "regions_unexplored:cold_river"
-	cool_wet = "regions_unexplored:muddy_river"
-	cool_humid = "regions_unexplored:muddy_river"
-	#neutral_biomes
-	neutral_arid = "minecraft:river"
-	neutral_dry = "minecraft:river"
-	neutral_neutral = "minecraft:river"
-	neutral_wet = "minecraft:river"
-	neutral_humid = "minecraft:river"
-	#warm_biomes
-	warm_arid = "minecraft:river"
-	warm_dry = "minecraft:river"
-	warm_neutral = "minecraft:river"
-	warm_wet = "minecraft:river"
-	warm_humid = "minecraft:river"
-	#hot_biomes
-	hot_arid = "minecraft:river"
-	hot_dry = "minecraft:river"
-	hot_neutral = "regions_unexplored:tropical_river"
-	hot_wet = "regions_unexplored:tropical_river"
-	hot_humid = "regions_unexplored:tropical_river"

@@ -593,6 +593,7 @@
       "minecraft:grove": "2025-05-13 21:11:14 +0000",
       "minecraft:forest": "2025-05-12 18:14:54 +0000",
       "minecraft:frozen_ocean": "2025-05-13 21:14:09 +0000",
+      "minecraft:desert": "2025-05-17 20:24:58 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-15 19:45:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-13 20:25:53 +0000",
       "minecraft:meadow": "2025-05-12 22:15:28 +0000",
@@ -13961,21 +13962,129 @@
     },
     "done": true
   },
-  "botania:recipes/decorations/apothecary_deepslate": {
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
     "criteria": {
-      "has_item": "2025-05-17 17:44:33 +0000"
+      "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
+      "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/axes/axe_axe": {
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
     "criteria": {
-      "has_iron_axe": "2025-05-17 19:03:07 +0000"
+      "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-17 17:24:19 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-05-17 17:26:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-05-17 17:29:44 +0000"
     },
     "done": true
   },
@@ -13985,9 +14094,147 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_water": {
     "criteria": {
-      "has_iron_axe": "2025-05-17 19:03:07 +0000"
+      "has_ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-05-17 17:35:35 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-05-17 17:35:35 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-05-17 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-05-17 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-05-17 17:43:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-05-17 17:43:50 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-05-17 18:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-17 18:01:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_tile_large": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-17 18:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-05-17 18:02:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-17 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-17 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
+    "criteria": {
+      "has_barrel": "2025-05-17 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-05-17 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-17 18:02:09 +0000"
     },
     "done": true
   },
@@ -14003,63 +14250,15 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
-    "criteria": {
-      "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/warped_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-05-17 19:07:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
-    "criteria": {
-      "has_golden_axe": "2025-05-17 18:19:44 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_pavers_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_brick": {
-    "criteria": {
-      "has_item": "2025-05-17 17:43:50 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/crimson_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-05-17 19:07:25 +0000"
     },
     "done": true
   },
@@ -14075,18 +14274,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
@@ -14096,12 +14283,6 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
@@ -14123,81 +14304,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/dreamwood_wand": {
-    "criteria": {
-      "has_item": "2025-05-17 17:44:33 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_tile_large": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-05-17 18:02:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/gold_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_mossy": {
-    "criteria": {
-      "has_item": "2025-05-17 17:44:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/gold_plate_from_block": {
-    "criteria": {
-      "has_gold_block": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/guts_sword": {
-    "criteria": {
-      "has_item": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-05-17 19:07:25 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2025-05-17 19:05:27 +0000"
     },
     "done": true
   },
@@ -14213,51 +14322,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-05-17 19:07:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
-    "criteria": {
-      "has_golden_chestplate": "2025-05-17 18:00:32 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_suns_grace": {
-    "criteria": {
-      "has_gold_block": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_water": {
-    "criteria": {
-      "has_ancient_debris": "2025-05-17 17:29:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
     },
     "done": true
   },
@@ -14267,57 +14334,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-05-17 17:29:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
-    "criteria": {
-      "has_gold_block": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_plate_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-05-17 19:07:25 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_silt_balls": {
-    "criteria": {
-      "has_item": "2025-05-17 17:43:50 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
-    "criteria": {
-      "has_item": "2025-05-17 18:02:09 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
-    "criteria": {
-      "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
-    "criteria": {
-      "has_item": "2025-05-17 19:07:47 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:end_of_reigns": {
-    "criteria": {
-      "condition_0": "2025-05-17 17:35:35 +0000"
     },
     "done": true
   },
@@ -14327,51 +14346,9 @@
     },
     "done": true
   },
-  "botania:recipes/tools/twig_wand": {
-    "criteria": {
-      "has_item": "2025-05-17 17:44:33 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
-    "criteria": {
-      "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-05-17 18:02:09 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-05-17 18:13:42 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
@@ -14387,36 +14364,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
-    "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-05-17 18:36:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-05-17 18:02:08 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
-    "criteria": {
-      "has_diamond_shovel": "2025-05-17 19:07:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-05-17 18:01:19 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/pocket_wormhole": {
-    "criteria": {
-      "has_nether_star": "2025-05-17 18:02:26 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-05-17 18:02:11 +0000"
@@ -14429,63 +14376,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/nickel_dust": {
-    "criteria": {
-      "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
-    "criteria": {
-      "has_pyrite_dust": "2025-05-17 17:41:59 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/warped_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/nickel_plate": {
-    "criteria": {
-      "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/oak_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-05-17 18:36:24 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-05-17 17:24:19 +0000"
     },
     "done": true
   },
@@ -14501,45 +14394,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/decorations/nether_brick_witch_altar": {
     "criteria": {
       "has_item": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:uncertainty": {
-    "criteria": {
-      "shard_of_uncertainty": "2025-05-17 18:02:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/iron_plate_from_block": {
-    "criteria": {
-      "has_iron_block": "2025-05-17 18:21:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-05-17 17:29:59 +0000"
     },
     "done": true
   },
@@ -14555,99 +14412,15 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-05-17 18:02:11 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "netherchested:recipes/decorations/nether_chest": {
-    "criteria": {
-      "has_nether_star": "2025-05-17 18:02:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
-    "criteria": {
-      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_mercury": {
-    "criteria": {
-      "has_ancient_debris": "2025-05-17 17:29:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
-    "criteria": {
-      "has_barrel": "2025-05-17 18:02:09 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/apothecary_default": {
-    "criteria": {
-      "has_item": "2025-05-17 17:44:33 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/elder_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
-    "criteria": {
-      "has_item": "2025-05-17 18:52:26 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/gold_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 17:27:08 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:all_weapons": {
-    "criteria": {
-      "darkin_blade": "2025-05-17 17:35:35 +0000"
-    },
-    "done": false
-  },
-  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
-    "criteria": {
-      "has_diamond_shovel": "2025-05-17 19:07:25 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/gold_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-05-17 17:27:08 +0000"
     },
     "done": true
   },
@@ -14663,51 +14436,297 @@
     },
     "done": true
   },
-  "brewery:recipes/barrel_main": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_barrel": "2025-05-17 18:02:09 +0000"
+      "has_nether_star": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+  "endrem:main/wither_eye": {
     "criteria": {
-      "has_pyrite_dust": "2025-05-17 17:41:59 +0000"
+      "wither_eye": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+  "fwaystones:recipes/pocket_wormhole": {
     "criteria": {
-      "has_item": "2025-05-17 18:02:09 +0000"
+      "has_nether_star": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
-  "mythicupgrades:recipes/misc/sapphire_ingot": {
+  "soulsweapons:uncertainty": {
     "criteria": {
-      "has_necessary_ingredients": "2025-05-17 17:26:00 +0000"
+      "shard_of_uncertainty": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
+  "netherchested:recipes/decorations/nether_chest": {
     "criteria": {
-      "has_golden_wide_pot": "2025-05-17 17:27:08 +0000"
+      "has_nether_star": "2025-05-17 18:02:26 +0000"
     },
     "done": true
   },
-  "endrem:main/cursed_eye": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_pickaxe": {
     "criteria": {
-      "cursed_eye": "2025-05-17 17:29:44 +0000"
+      "has_golden_pickaxe": "2025-05-17 18:13:42 +0000"
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+  "techreborn:recipes/blast_furnace/gold_ingot_from_axe": {
     "criteria": {
-      "has_core_specification_item": "2025-05-17 17:27:08 +0000"
+      "has_golden_axe": "2025-05-17 18:19:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/iron_plate_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-17 18:21:49 +0000"
     },
     "done": true
   },
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2025-05-17 18:21:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-05-17 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2025-05-17 19:03:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 19:05:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-05-17 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 19:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-17 20:19:25 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-17 20:24:58 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-05-17 20:25:19 +0000"
     },
     "done": true
   },
