@@ -3143,3 +3143,64 @@ BCLib - Nether BiomeSource (17e76637)
 [18:26:37] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
 [18:27:11] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
 [18:27:50] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[18:29:05] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[18:29:16] [Server thread/INFO]: Reelx was burnt to a crisp whilst fighting Blaze
+[18:29:16] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-18.29.16.dat
+[18:29:18] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[18:29:32] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[18:29:32] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[18:29:45] [Server thread/INFO]: [Reelx: Teleported Reelx to 308.500000, 61.500000, 2070.500000]
+[18:29:47] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 308, 61, 2070, minecraft:the_nether
+[18:30:23] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[18:31:20] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[18:32:29] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[18:33:00] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[18:33:39] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[18:35:33] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[18:36:40] [Server thread/INFO]: [Reelx: Teleported Reelx to -863.500000, 73.500000, 920.500000]
+[18:36:57] [Server thread/INFO]: [Reelx: Teleported Reelx to -945.500000, 64.500000, 962.500000]
+[18:37:01] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[18:37:02] [Server thread/INFO]: Yamen9z has completed the challenge [Hot Tourist Destinations]
+[18:37:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18:37:03] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[18:37:05] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[18:37:05] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[18:37:36] [Server thread/INFO]: [Reelx: Gamerule keepInventory is now set to: true]
+[18:37:40] [Server thread/WARN]: java.base/java.lang.Thread.getStackTrace(Thread.java:1619)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1657.handler$gpe000$prominent$checkSetAbsorbtionEntity(class_1657.java:42384)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6073(class_1657.java)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1657.method_6074(class_1657.java:1003)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5643(class_1309.java:1163)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1657.method_5643(class_1657.java:928)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_3222.method_5643(class_3222.java:732)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1309.method_5768(class_1309.java:277)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13430(class_3075.java:32)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_3075.method_13431(class_3075.java:25)
+[18:37:40] [Server thread/WARN]: knot//com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_2170.redirect$zok000$architectury$performCommand(class_2170.java:1545)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_2170.method_9249(class_2170.java:287)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_3244.method_45010(class_3244.java:1341)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_3244.method_44356(class_3244.java:1321)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5386(class_1255.java:67)
+[18:37:40] [Server thread/WARN]: java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_3738.run(class_3738.java:18)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1255.method_18859(class_1255.java:156)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_4093.method_18859(class_4093.java:23)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_24306(MinecraftServer.java:782)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_18859(MinecraftServer.java:164)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1255.method_16075(class_1255.java:130)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:764)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:758)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.class_1255.method_5383(class_1255.java:115)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:742)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:675)
+[18:37:40] [Server thread/WARN]: knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265)
+[18:37:40] [Server thread/WARN]: java.base/java.lang.Thread.run(Thread.java:840)
+[18:37:40] [Server thread/WARN]: A mod tried to set NaN absorption to entity class_3222['Reelx'/50685, l='ServerLevel[world]', x=269.86, y=36.00, z=2074.70]!
+[18:37:40] [Server thread/INFO]: Reelx was killed
+[18:37:40] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-18.37.40.dat
+[18:37:40] [Server thread/INFO]: [Reelx: Killed Reelx]
+[18:37:42] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[18:37:46] [Server thread/INFO]: [Reelx: Teleported 3 entities to Reelx]
+[18:37:46] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[18:37:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.

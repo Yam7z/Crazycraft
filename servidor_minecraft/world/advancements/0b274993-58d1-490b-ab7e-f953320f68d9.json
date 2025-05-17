@@ -10456,6 +10456,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-17 18:36:58 +0000",
       "minecraft:nether_wastes": "2025-05-15 20:45:55 +0000",
       "minecraft:warped_forest": "2025-05-15 20:15:58 +0000",
       "minecraft:basalt_deltas": "2025-05-15 21:04:46 +0000"
@@ -10489,6 +10490,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-05-15 20:59:18 +0000",
+      "betternether:bone_reef": "2025-05-17 18:36:42 +0000",
       "betternether:flooded_deltas": "2025-05-15 21:02:42 +0000",
       "betternether:gravel_desert": "2025-05-15 20:58:01 +0000",
       "betternether:old_fungiwoods": "2025-05-15 21:01:20 +0000",
@@ -12396,6 +12398,12 @@
   "simplyswords:flamewind": {
     "criteria": {
       "requirement": "2025-05-17 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
+    "criteria": {
+      "has_golden_leggings": "2025-05-17 18:37:06 +0000"
     },
     "done": true
   },

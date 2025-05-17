@@ -13643,12 +13643,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-17 18:37:02 +0000",
       "minecraft:nether_wastes": "2025-05-15 20:45:46 +0000",
       "minecraft:soul_sand_valley": "2025-05-17 18:06:50 +0000",
       "minecraft:warped_forest": "2025-05-15 20:15:52 +0000",
       "minecraft:basalt_deltas": "2025-05-15 21:04:39 +0000"
     },
-    "done": false
+    "done": true
   },
   "betternether:all_the_biomes": {
     "criteria": {
@@ -13661,6 +13662,7 @@
       "betternether:nether_grasslands": "2025-05-17 18:07:18 +0000",
       "betternether:old_swampland": "2025-05-17 18:13:38 +0000",
       "betternether:nether_swampland": "2025-05-17 18:16:39 +0000",
+      "betternether:crimson_glowing_woods": "2025-05-17 18:37:05 +0000",
       "betternether:magma_land": "2025-05-17 17:37:26 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-05-15 21:01:14 +0000",
       "betternether:nether_jungle": "2025-05-15 21:06:06 +0000",
@@ -15642,6 +15644,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-17 18:35:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-05-17 17:49:44 +0000"
@@ -16131,6 +16139,12 @@
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-05-17 17:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-17 18:35:43 +0000"
     },
     "done": true
   },

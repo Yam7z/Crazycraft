@@ -13991,6 +13991,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
@@ -14117,6 +14123,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_water": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-05-17 18:21:49 +0000"
@@ -14186,6 +14198,12 @@
   "techreborn:recipes/industrial_grinder/netherite_scrap_from_ancient_debris_with_water": {
     "criteria": {
       "has_ancient_debris": "2025-05-17 17:29:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_smithing_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
     },
     "done": true
   },
@@ -14291,6 +14309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-17 18:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
       "has_nether_brick_slab": "2025-05-17 18:02:08 +0000"
@@ -14336,6 +14360,12 @@
   "techreborn:recipes/compressor/nickel_plate": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 18:36:24 +0000"
     },
     "done": true
   },
@@ -14432,6 +14462,12 @@
   "netherchested:recipes/decorations/nether_chest": {
     "criteria": {
       "has_nether_star": "2025-05-17 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
+    "criteria": {
+      "has_tag_minecraft_trim_templates": "2025-05-17 18:36:24 +0000"
     },
     "done": true
   },
