@@ -6257,6 +6257,7 @@
     "criteria": {
       "silver_birch_forest": "2025-05-13 21:08:44 +0000",
       "shrubland": "2025-05-13 20:21:15 +0000",
+      "redstone_abyss": "2025-05-17 18:10:19 +0000",
       "pine_taiga": "2025-05-12 22:10:15 +0000",
       "muddy_river": "2025-05-13 21:07:46 +0000",
       "willow_forest": "2025-05-12 22:17:07 +0000",
@@ -13642,6 +13643,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-05-15 20:45:46 +0000",
+      "minecraft:soul_sand_valley": "2025-05-17 18:06:50 +0000",
       "minecraft:warped_forest": "2025-05-15 20:15:52 +0000",
       "minecraft:basalt_deltas": "2025-05-15 21:04:39 +0000"
     },
@@ -13650,15 +13652,21 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-05-15 20:52:24 +0000",
+      "betternether:bone_reef": "2025-05-17 18:09:36 +0000",
       "betternether:flooded_deltas": "2025-05-15 21:02:44 +0000",
       "betternether:gravel_desert": "2025-05-15 20:58:03 +0000",
+      "betternether:poor_nether_grasslands": "2025-05-17 18:07:22 +0000",
       "betternether:old_fungiwoods": "2025-05-15 21:01:16 +0000",
+      "betternether:nether_grasslands": "2025-05-17 18:07:18 +0000",
+      "betternether:old_swampland": "2025-05-17 18:13:38 +0000",
       "betternether:magma_land": "2025-05-17 17:37:26 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-05-15 21:01:14 +0000",
       "betternether:nether_jungle": "2025-05-15 21:06:06 +0000",
       "betternether:wart_forest": "2025-05-15 21:00:44 +0000",
+      "betternether:nether_swampland_terraces": "2025-05-17 18:12:13 +0000",
       "betternether:old_warped_woods": "2025-05-15 20:15:57 +0000",
-      "betternether:soul_plain": "2025-05-15 21:00:41 +0000"
+      "betternether:soul_plain": "2025-05-15 21:00:41 +0000",
+      "betternether:sulfuric_bone_reef": "2025-05-17 18:07:07 +0000"
     },
     "done": false
   },
@@ -14841,6 +14849,7 @@
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-05-15 20:42:34 +0000",
+      "redstone_abyss": "2025-05-17 18:10:19 +0000",
       "glistering_meadow": "2025-05-15 21:13:32 +0000"
     },
     "done": false
@@ -15427,6 +15436,18 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/spellblade": {
+    "criteria": {
+      "arcane": "2025-05-17 18:13:05 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-05-17 18:12:25 +0000"
+    },
+    "done": true
+  },
   "endrem:main/nether_eye": {
     "criteria": {
       "nether_eye": "2025-05-17 16:59:31 +0000"
@@ -15532,6 +15553,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-17 18:03:35 +0000"
     },
     "done": true
   },
@@ -15859,6 +15886,18 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-17 18:01:19 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/pocket_wormhole": {
+    "criteria": {
+      "has_nether_star": "2025-05-17 18:03:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-05-17 17:49:44 +0000"
@@ -16045,6 +16084,12 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_nether_star": "2025-05-17 18:03:35 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2025-05-17 17:25:53 +0000"
@@ -16102,6 +16147,12 @@
   "betternether:recipes/decorations/cincinnasite_anvil": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 17:41:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:flamewind": {
+    "criteria": {
+      "requirement": "2025-05-17 18:04:30 +0000"
     },
     "done": true
   },
