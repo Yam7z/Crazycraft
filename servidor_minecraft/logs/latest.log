@@ -2634,3 +2634,98 @@ BCLib - Nether BiomeSource (17e76637)
 [17:35:28] [Server thread/ERROR]: Grave could not be replaced at X: 443, Y: 33, Z: 385 / minecraft:the_nether
 [17:35:28] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 443, 33, 385, minecraft:the_nether
 [17:35:35] [Server thread/INFO]: ak4roo7z has completed the challenge [Oh, The Misery]
+[17:37:02] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 484.500000, 36.500000, 169.500000]
+[17:37:06] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:37:09] [User Authenticator #5/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[17:37:09] [Server thread/INFO]: [Handshake] Sending channel query
+[17:37:09] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[17:37:09] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[17:37:09] [Server thread/INFO]: Reelx[/100.95.52.95:51205] logged in with entity id 21031 at (169.79896548416642, 40.0, 185.88445417209516)
+[17:37:09] [Server thread/INFO]: Sending server config values to client
+[17:37:09] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[17:37:09] [Server thread/INFO]: Loading config from file...
+[17:37:09] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:37:09] [Server thread/INFO]: Reelx joined the game
+[17:37:09] [Server thread/INFO]: Loading Configs for Sortilege
+[17:37:09] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:37:09] [Server thread/INFO]: PLAYER_JOIN
+[17:37:09] [Server thread/INFO]: add_player wand
+[17:37:09] [Server thread/INFO]: config sent
+[17:37:09] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[17:37:11] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[17:37:12] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[17:37:12] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[17:37:13] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:37:21] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:37:34] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:37:54] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:37:57] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:38:20] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[17:39:23] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:40:33] [Server thread/INFO]: [Reelx: Teleported Reelx to ak4roo7z]
+[17:40:34] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:40:34] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:41:00] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:41:42] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 531.500000, 33.500000, 34.500000]
+[17:41:51] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:42:07] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:42:13] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:42:49] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:42:51] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to 635.500000, 21.500000, 3.500000]
+[17:42:53] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:42:55] [Worker-Main-33/INFO]: [betternether] BBox:class_3341{minX=943, minY=22, minZ=79, maxX=1153, maxY=96, maxZ=289}
+[17:43:01] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:44:10] [Server thread/INFO]: ak4roo7z was slain by Nether Gauntlet
+[17:44:10] [Netty Epoll Server IO #5/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17:44:10] [Netty Epoll Server IO #5/ERROR]: Combo count: 0 is dual wielding: false
+[17:44:10] [Netty Epoll Server IO #5/ERROR]: Main-hand stack: 0 air
+[17:44:10] [Netty Epoll Server IO #5/ERROR]: Off-hand stack: 0 air
+[17:44:10] [Netty Epoll Server IO #5/ERROR]: Selected slot server: 0 | client: 0
+[17:44:11] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:44:14] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:44:14] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:44:23] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 654, 20, -17, minecraft:the_nether
+[17:45:16] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:45:16] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.45.16.dat
+[17:45:19] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:45:22] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:45:22] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:45:24] [Server thread/INFO]: ak4roo7z was slain by Nether Gauntlet
+[17:45:25] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:45:28] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:45:28] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:45:34] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 652, 17, -10, minecraft:the_nether
+[17:45:37] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 638, 20, -7, minecraft:the_nether
+[17:46:23] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:46:23] [Server thread/INFO]: Created new backpack backup file for Reelx with unique ID travelersbackpack.iron_17.05.2025-17.46.23.dat
+[17:46:24] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:46:33] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:46:33] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:46:33] [Server thread/INFO]: Reelx was slain by Nether Gauntlet
+[17:46:33] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:46:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:46:42] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:46:44] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[17:46:44] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
+[17:46:44] [Server thread/INFO]: Yamen9z was slain by Nether Gauntlet
+[17:46:44] [Server thread/INFO]: Created new backpack backup file for Yamen9z with unique ID travelersbackpack.standard_17.05.2025-17.46.44.dat
+[17:46:45] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2773ms or 55 ticks behind
+[17:46:52] [Server thread/INFO]: [Reelx: Set own game mode to Creative Mode]
+[17:46:55] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to ak4roo7z]
+[17:46:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:46:55] [Server thread/INFO]: Yamen9z was slain by Nether Gauntlet
+[17:46:55] [Server thread/INFO]: Did not backup data (grave data empty)
+[17:46:55] [Server thread/INFO]: ak4roo7z was slain by Nether Gauntlet
+[17:46:56] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:46:58] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:46:59] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Yamen9z]
+[17:47:03] [Server thread/INFO]: [ak4roo7z: Teleported ak4roo7z to Reelx]
+[17:47:03] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ak4roo7z accepted server config.
+[17:47:03] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to Reelx]
+[17:47:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:47:04] [Server thread/INFO]: Reelx claimed a grave belonging to Reelx at 655, 38, -23, minecraft:the_nether
+[17:47:05] [Server thread/INFO]: [Reelx: Set own game mode to Survival Mode]
+[17:47:07] [Server thread/INFO]: Yamen9z claimed a grave belonging to Yamen9z at 651, 24, -24, minecraft:the_nether
+[17:47:07] [Server thread/INFO]: ak4roo7z claimed a grave belonging to ak4roo7z at 658, 21, -18, minecraft:the_nether
+[17:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind

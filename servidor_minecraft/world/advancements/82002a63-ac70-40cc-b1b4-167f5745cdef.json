@@ -11531,6 +11531,7 @@
       "betternether:wart_forest_edge": "2025-05-15 20:52:17 +0000",
       "betternether:gravel_desert": "2025-05-15 20:57:54 +0000",
       "betternether:old_fungiwoods": "2025-05-15 21:02:00 +0000",
+      "betternether:magma_land": "2025-05-17 17:37:18 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-05-15 21:01:59 +0000",
       "betternether:nether_jungle": "2025-05-15 21:06:24 +0000",
       "betternether:nether_mushroom_forest": "2025-05-15 21:02:38 +0000",
@@ -13960,6 +13961,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-05-17 17:43:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-05-17 17:27:08 +0000"
@@ -14014,9 +14021,21 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-05-17 17:43:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
       "has_nickel_ingot": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:end_of_reigns": {
+    "criteria": {
+      "condition_0": "2025-05-17 17:35:35 +0000"
     },
     "done": true
   },
@@ -14029,6 +14048,12 @@
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-05-17 17:41:59 +0000"
     },
     "done": true
   },
@@ -14074,9 +14099,21 @@
     },
     "done": true
   },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "darkin_blade": "2025-05-17 17:35:35 +0000"
+    },
+    "done": false
+  },
   "justhammers:recipes/tools/gold_destructor_hammer": {
     "criteria": {
       "has_material": "2025-05-17 17:27:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-05-17 17:41:59 +0000"
     },
     "done": true
   },
