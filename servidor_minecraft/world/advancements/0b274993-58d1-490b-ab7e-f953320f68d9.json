@@ -12401,9 +12401,21 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 18:51:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_leggings": {
     "criteria": {
       "has_golden_leggings": "2025-05-17 18:37:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 18:49:38 +0000"
     },
     "done": true
   },

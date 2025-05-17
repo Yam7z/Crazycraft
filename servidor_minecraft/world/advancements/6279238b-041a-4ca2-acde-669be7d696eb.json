@@ -16292,5 +16292,41 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-17 18:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-05-17 18:49:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-05-17 18:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-17 18:51:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-05-17 18:51:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-05-17 18:49:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -13967,6 +13967,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-05-17 17:29:59 +0000"
@@ -13982,6 +13988,12 @@
   "techreborn:recipes/assembling_machine/rib_armor_trim_smithing_template": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
     },
     "done": true
   },
@@ -14267,6 +14279,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
@@ -14282,6 +14300,12 @@
   "vinery:recipes/fermentation_barrel": {
     "criteria": {
       "has_barrel": "2025-05-17 18:02:09 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
     },
     "done": true
   },
@@ -14345,6 +14369,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/nickel_dust": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
@@ -14357,9 +14387,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/nickel_plate": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-05-17 17:24:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
     },
     "done": true
   },
@@ -14396,6 +14438,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-17 18:02:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
     },
     "done": true
   },
@@ -14453,9 +14501,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-05-17 18:02:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
     },
     "done": true
   },
@@ -14492,6 +14552,18 @@
   "botania:recipes/decorations/apothecary_default": {
     "criteria": {
       "has_item": "2025-05-17 17:44:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-05-17 18:52:26 +0000"
     },
     "done": true
   },
