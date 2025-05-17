@@ -2491,3 +2491,26 @@ BCLib - Nether BiomeSource (17e76637)
 [17:05:21] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
 [17:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [17:05:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
+[17:05:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[17:08:11] [Server thread/INFO]: Villager class_1646['Kaitlyn'/727, l='ServerLevel[world]', x=-1126.91, y=277.50, z=1156.59] died, message: 'Kaitlyn hit the ground too hard'
+[17:08:11] [Server thread/INFO]: Named entity class_1646['Kaitlyn'/727, l='ServerLevel[world]', x=-1126.91, y=277.50, z=1156.59] died: Kaitlyn fell from a high place
+[17:15:14] [User Authenticator #4/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[17:15:14] [Server thread/INFO]: [Handshake] Sending channel query
+[17:15:14] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[17:15:14] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[17:15:14] [Server thread/INFO]: Reelx[/100.95.52.95:51028] logged in with entity id 6881 at (-939.4166137856001, 65.875, 964.5293967103586)
+[17:15:14] [Server thread/INFO]: Sending server config values to client
+[17:15:14] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[17:15:14] [Server thread/INFO]: Loading config from file...
+[17:15:14] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:15:14] [Server thread/INFO]: Reelx joined the game
+[17:15:14] [Server thread/INFO]: Loading Configs for Sortilege
+[17:15:14] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:15:15] [Server thread/INFO]: PLAYER_JOIN
+[17:15:15] [Server thread/INFO]: add_player wand
+[17:15:15] [Server thread/INFO]: config sent
+[17:15:15] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[17:15:16] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[17:15:17] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[17:15:17] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[17:15:18] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.
