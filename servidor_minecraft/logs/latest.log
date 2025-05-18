@@ -2402,3 +2402,78 @@ BCLib - Nether BiomeSource (58adc93e)
 [19:03:09] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7472
 [19:03:09] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_2797
 [19:03:09] [Netty Epoll Server IO #2/INFO]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.class_7861
+[19:07:26] [User Authenticator #1/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[19:07:26] [Server thread/INFO]: [Handshake] Sending channel query
+[19:07:26] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[19:07:26] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[19:07:26] [Server thread/INFO]: Yamen9z[/100.108.38.32:59379] logged in with entity id 4 at (-943.8183431443564, 64.0, 958.5695863528554)
+[19:07:27] [Server thread/INFO]: Sending server config values to client
+[19:07:27] [Server thread/INFO]: Syncing config to Yamen9z (6279238b-041a-4ca2-acde-669be7d696eb)
+[19:07:27] [Server thread/INFO]: Loading config from file...
+[19:07:28] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:07:28] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[19:07:28] [Server thread/INFO]: Yamen9z joined the game
+[19:07:28] [Server thread/INFO]: Loading Configs for Sortilege
+[19:07:28] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:07:28] [Server thread/INFO]: PLAYER_JOIN
+[19:07:28] [Server thread/INFO]: add_player wand
+[19:07:28] [Server thread/INFO]: config sent
+[19:07:28] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[19:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2477ms or 49 ticks behind
+[19:07:30] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Yamen9z -> Global
+[19:07:30] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yamen9z. Claiming: GRAVE / Robbing: INVENTORY
+[19:07:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[19:08:30] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[19:08:30] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[19:12:12] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[19:12:43] [User Authenticator #2/INFO]: UUID of player losthorror is c9e1ba0c-7dbc-42ba-942b-ce8841d6e4d0
+[19:12:43] [Server thread/INFO]: [Handshake] Sending channel query
+[19:12:43] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[19:12:43] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[19:12:43] [Server thread/INFO]: losthorror[/100.84.58.4:63006] logged in with entity id 805 at (2.5, 67.0, -4.5)
+[19:12:43] [Server thread/INFO]: Sending server config values to client
+[19:12:43] [Server thread/INFO]: Syncing config to losthorror (c9e1ba0c-7dbc-42ba-942b-ce8841d6e4d0)
+[19:12:43] [Server thread/INFO]: Loading config from file...
+[19:12:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:12:43] [Server thread/INFO]: losthorror joined the game
+[19:12:43] [Server thread/INFO]: Loading Configs for Sortilege
+[19:12:43] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:12:43] [Server thread/INFO]: Updating all forceload tickets for c9e1ba0c-7dbc-42ba-942b-ce8841d6e4d0
+[19:12:44] [Server thread/INFO]: PLAYER_JOIN
+[19:12:44] [Server thread/INFO]: add_player wand
+[19:12:44] [Server thread/INFO]: config sent
+[19:12:44] [Server thread/INFO]: losthorror has made the advancement [Mythic Mobs]
+[19:12:46] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[19:12:49] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: losthorror -> Global
+[19:12:49] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player losthorror. Claiming: GRAVE / Robbing: INVENTORY
+[19:12:51] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of losthorror accepted server config.
+[19:13:27] [Server thread/INFO]: [Yamen9z: Made losthorror a server operator]
+[19:13:27] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of losthorror accepted server config.
+[19:14:15] [Server thread/INFO]: losthorror has made the advancement [Fruits of the Field]
+[19:14:26] [Server thread/INFO]: [Yamen9z: Teleported losthorror to Yamen9z]
+[19:14:34] [Server thread/INFO]: losthorror has made the advancement [Cosmic Fury]
+[19:14:34] [Server thread/INFO]: losthorror has made the advancement [Blast Protection Not Included]
+[19:14:34] [Server thread/INFO]: losthorror has made the advancement [Archer´s Paths]
+[19:14:34] [Server thread/INFO]: losthorror has made the advancement [Amateur Archaeologist]
+[19:14:34] [User Authenticator #3/INFO]: UUID of player Reelx is 0b274993-58d1-490b-ab7e-f953320f68d9
+[19:14:34] [Server thread/INFO]: [Handshake] Sending channel query
+[19:14:34] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[19:14:34] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[19:14:34] [Server thread/INFO]: Reelx[/100.95.52.95:54038] logged in with entity id 2182 at (-2318.686769670623, 49.0, 122.23750815184697)
+[19:14:34] [Server thread/INFO]: Sending server config values to client
+[19:14:35] [Server thread/INFO]: Syncing config to Reelx (0b274993-58d1-490b-ab7e-f953320f68d9)
+[19:14:35] [Server thread/INFO]: Loading config from file...
+[19:14:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:14:35] [Server thread/INFO]: Reelx joined the game
+[19:14:35] [Server thread/INFO]: Loading Configs for Sortilege
+[19:14:35] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:14:35] [Server thread/INFO]: PLAYER_JOIN
+[19:14:35] [Server thread/INFO]: add_player wand
+[19:14:35] [Server thread/INFO]: config sent
+[19:14:35] [Server thread/INFO]: Updating all forceload tickets for 0b274993-58d1-490b-ab7e-f953320f68d9
+[19:14:35] [Server thread/INFO]: losthorror has completed the challenge [Cover Me in Debris]
+[19:14:37] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[19:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[19:14:39] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Reelx -> Global
+[19:14:39] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Reelx. Claiming: GRAVE / Robbing: INVENTORY
+[19:14:40] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Reelx accepted server config.

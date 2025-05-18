@@ -1,0 +1,17 @@
+{
+	id: "c9e1ba0c-7dbc-42ba-942b-ce8841d6e4d0"
+	type: "player"
+	player_name: "losthorror"
+	ranks: {
+		c9e1ba0c-7dbc-42ba-942b-ce8841d6e4d0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "losthorror"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5993FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

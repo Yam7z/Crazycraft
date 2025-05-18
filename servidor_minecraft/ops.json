@@ -22,5 +22,11 @@
     "name": "Tamlml",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c9e1ba0c-7dbc-42ba-942b-ce8841d6e4d0",
+    "name": "losthorror",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
