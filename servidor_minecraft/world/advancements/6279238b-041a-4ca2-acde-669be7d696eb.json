@@ -6282,6 +6282,7 @@
       "prismachasm": "2025-05-18 19:43:12 +0000",
       "willow_forest": "2025-05-12 22:17:07 +0000",
       "frozen_tundra": "2025-05-18 19:41:24 +0000",
+      "rocky_reef": "2025-05-18 22:33:09 +0000",
       "poppy_fields": "2025-05-18 19:39:37 +0000",
       "grassy_beach": "2025-05-12 21:59:12 +0000",
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
@@ -6292,6 +6293,7 @@
       "frozen_pine_taiga": "2025-05-18 19:29:14 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
       "sparse_redwoods": "2025-05-13 20:07:11 +0000",
+      "joshua_desert": "2025-05-18 22:33:39 +0000",
       "deciduous_forest": "2025-05-12 21:59:41 +0000",
       "boreal_forest": "2025-05-13 21:07:49 +0000",
       "glistering_meadow": "2025-05-15 21:13:32 +0000",
@@ -6305,6 +6307,7 @@
       "redwoods": "2025-05-12 22:09:48 +0000",
       "golden_boreal_taiga": "2025-05-18 19:35:00 +0000",
       "hyacinth_deeps": "2025-05-15 19:38:47 +0000",
+      "rainforest": "2025-05-18 22:35:33 +0000",
       "lupine_plains": "2025-05-12 22:17:14 +0000"
     },
     "done": false
@@ -6318,6 +6321,7 @@
       "autumnal_maple_forest": "2025-05-18 19:39:26 +0000",
       "willow_forest": "2025-05-12 22:17:07 +0000",
       "frozen_tundra": "2025-05-18 19:41:24 +0000",
+      "rocky_reef": "2025-05-18 22:33:09 +0000",
       "poppy_fields": "2025-05-18 19:39:37 +0000",
       "grassy_beach": "2025-05-12 21:59:12 +0000",
       "blackwood_taiga": "2025-05-12 22:35:47 +0000",
@@ -6327,6 +6331,7 @@
       "frozen_pine_taiga": "2025-05-18 19:29:14 +0000",
       "magnolia_highlands": "2025-05-12 22:33:06 +0000",
       "sparse_redwoods": "2025-05-13 20:07:11 +0000",
+      "joshua_desert": "2025-05-18 22:33:39 +0000",
       "deciduous_forest": "2025-05-12 21:59:41 +0000",
       "boreal_forest": "2025-05-13 21:07:49 +0000",
       "cold_boreal_taiga": "2025-05-18 21:59:34 +0000",
@@ -6339,6 +6344,7 @@
       "redwoods": "2025-05-12 22:09:48 +0000",
       "golden_boreal_taiga": "2025-05-18 19:35:00 +0000",
       "hyacinth_deeps": "2025-05-15 19:38:47 +0000",
+      "rainforest": "2025-05-18 22:35:33 +0000",
       "lupine_plains": "2025-05-12 22:17:14 +0000"
     },
     "done": false
@@ -11797,6 +11803,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "joshua_log": "2025-05-18 22:33:47 +0000",
       "magnolia_log": "2025-05-13 20:22:53 +0000",
       "larch_log": "2025-05-18 19:37:19 +0000",
       "redwood_log": "2025-05-13 20:06:21 +0000",
@@ -17858,6 +17865,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/joshua_button": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 22:18:37 +0000"
@@ -17870,6 +17883,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/joshua_sign": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 22:18:37 +0000"
@@ -17879,6 +17898,12 @@
   "botania:recipes/decorations/light_blue_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-18 22:16:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_pressure_plate": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
     },
     "done": true
   },
@@ -17903,6 +17928,18 @@
   "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-05-18 22:18:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_stairs": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/joshua_fence_gate": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
     },
     "done": true
   },
@@ -18002,9 +18039,27 @@
     },
     "done": true
   },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2025-05-18 22:29:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 22:18:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:from_the_tree_tops": {
+    "criteria": {
+      "kapok_vines": "2025-05-18 22:36:23 +0000"
     },
     "done": true
   },
@@ -18026,6 +18081,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_joshua": {
+    "criteria": {
+      "has_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/joshua_shrub": {
+    "criteria": {
+      "has_joshua_sapling": "2025-05-18 22:34:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_lantern": {
     "criteria": {
       "has_glowstone": "2025-05-18 22:17:45 +0000"
@@ -18035,6 +18102,12 @@
   "botania:recipes/decorations/red_shiny_flower": {
     "criteria": {
       "has_item": "2025-05-18 22:15:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 22:33:47 +0000"
     },
     "done": true
   },
@@ -18050,6 +18123,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/joshua_trapdoor": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 22:18:37 +0000"
@@ -18062,15 +18141,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/joshua_door": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-05-18 22:18:37 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/joshua_beard_from_joshua_log": {
+    "criteria": {
+      "has_log": "2025-05-18 22:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-18 22:17:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 22:33:47 +0000"
     },
     "done": true
   },
@@ -18092,9 +18189,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/joshua_fence": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-05-18 22:18:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/joshua_slab": {
+    "criteria": {
+      "has_joshua_planks": "2025-05-18 22:34:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_doors": "2025-05-18 22:34:51 +0000"
     },
     "done": true
   },

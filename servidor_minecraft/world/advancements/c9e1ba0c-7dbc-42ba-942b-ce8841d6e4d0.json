@@ -584,6 +584,7 @@
       "minecraft:taiga": "2025-05-18 19:32:42 +0000",
       "minecraft:frozen_river": "2025-05-18 22:06:01 +0000",
       "minecraft:birch_forest": "2025-05-18 19:32:12 +0000",
+      "minecraft:badlands": "2025-05-18 22:38:19 +0000",
       "minecraft:beach": "2025-05-18 21:26:39 +0000",
       "minecraft:dark_forest": "2025-05-18 19:32:30 +0000",
       "minecraft:river": "2025-05-18 19:14:10 +0000",
@@ -596,6 +597,7 @@
       "minecraft:deep_frozen_ocean": "2025-05-18 20:01:21 +0000",
       "minecraft:jungle": "2025-05-18 21:13:23 +0000",
       "minecraft:snowy_beach": "2025-05-18 22:03:32 +0000",
+      "minecraft:warm_ocean": "2025-05-18 22:37:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 21:51:26 +0000",
       "minecraft:plains": "2025-05-18 19:14:15 +0000"
     },
@@ -1003,6 +1005,7 @@
       "shrubland": "2025-05-18 19:30:23 +0000",
       "pine_taiga": "2025-05-18 19:30:05 +0000",
       "frozen_tundra": "2025-05-18 21:02:44 +0000",
+      "rocky_reef": "2025-05-18 22:39:09 +0000",
       "grassy_beach": "2025-05-18 21:26:32 +0000",
       "magnolia_highlands": "2025-05-18 20:02:33 +0000",
       "bamboo_forest": "2025-05-18 19:14:20 +0000",
@@ -1010,6 +1013,7 @@
       "temperate_grove": "2025-05-18 19:30:18 +0000",
       "spires": "2025-05-18 21:22:15 +0000",
       "hyacinth_deeps": "2025-05-18 20:01:19 +0000",
+      "rainforest": "2025-05-18 22:36:30 +0000",
       "lupine_plains": "2025-05-18 19:14:27 +0000"
     },
     "done": false
@@ -1019,6 +1023,7 @@
       "shrubland": "2025-05-18 19:30:23 +0000",
       "pine_taiga": "2025-05-18 19:30:05 +0000",
       "frozen_tundra": "2025-05-18 21:02:44 +0000",
+      "rocky_reef": "2025-05-18 22:39:09 +0000",
       "grassy_beach": "2025-05-18 21:26:32 +0000",
       "magnolia_highlands": "2025-05-18 20:02:33 +0000",
       "bamboo_forest": "2025-05-18 19:14:20 +0000",
@@ -1026,6 +1031,7 @@
       "temperate_grove": "2025-05-18 19:30:18 +0000",
       "spires": "2025-05-18 21:22:15 +0000",
       "hyacinth_deeps": "2025-05-18 20:01:19 +0000",
+      "rainforest": "2025-05-18 22:36:30 +0000",
       "lupine_plains": "2025-05-18 19:14:27 +0000"
     },
     "done": false
@@ -9423,6 +9429,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_trim_template_with_mercury": {
     "criteria": {
       "has_tag_minecraft_trim_templates": "2025-05-18 22:00:23 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-05-18 22:37:08 +0000"
     },
     "done": true
   },
