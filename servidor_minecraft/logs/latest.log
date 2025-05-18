@@ -2607,3 +2607,50 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [22:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15064ms or 301 ticks behind
 [22:39:48] [Server thread/INFO]: [losthorror: Set the time to 1000]
 [22:40:05] [Server thread/INFO]: [Yamen9z: Gave 5 [Sponge] to Yamen9z]
+[22:41:40] [Server thread/INFO]: [losthorror: Teleported losthorror to Yamen9z]
+[22:41:47] [Server thread/INFO]: losthorror has made the advancement [Arghh, Where be Me Ship?]
+[22:42:12] [Server thread/INFO]: [losthorror: Teleported losthorror to -941.500000, 64.500000, 960.500000]
+[22:42:13] [Server thread/INFO]: [Yamen9z: Teleported Yamen9z to -949.500000, 64.500000, 969.500000]
+[22:42:15] [Server thread/INFO]: [Reelx: Teleported Reelx to Yamen9z]
+[22:44:35] [Server thread/INFO]: Yamen9z lost connection: Disconnected
+[22:44:35] [Server thread/INFO]: Yamen9z left the game
+[22:44:35] [Server thread/INFO]: remove player wand
+[22:44:35] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[22:44:54] [User Authenticator #6/INFO]: UUID of player Yamen9z is 6279238b-041a-4ca2-acde-669be7d696eb
+[22:44:54] [Server thread/INFO]: [Handshake] Sending channel query
+[22:44:54] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[22:44:54] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[22:44:54] [Server thread/INFO]: Yamen9z[/100.108.38.32:62060] logged in with entity id 27371 at (-641.6999999880791, 62.345875699660105, 1049.8601878366633)
+[22:44:54] [Server thread/INFO]: Sending server config values to client
+[22:44:54] [Server thread/INFO]: Syncing config to Yamen9z (6279238b-041a-4ca2-acde-669be7d696eb)
+[22:44:54] [Server thread/INFO]: Loading config from file...
+[22:44:54] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:44:54] [Server thread/INFO]: Yamen9z joined the game
+[22:44:54] [Server thread/INFO]: Loading Configs for Sortilege
+[22:44:54] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:44:54] [Server thread/INFO]: PLAYER_JOIN
+[22:44:54] [Server thread/INFO]: add_player wand
+[22:44:54] [Server thread/INFO]: config sent
+[22:44:54] [Server thread/INFO]: Updating all forceload tickets for 6279238b-041a-4ca2-acde-669be7d696eb
+[22:44:56] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[22:44:56] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Yamen9z -> Global
+[22:44:56] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yamen9z. Claiming: GRAVE / Robbing: INVENTORY
+[22:44:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Yamen9z accepted server config.
+[22:46:35] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[22:47:23] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[22:48:22] [Server thread/INFO]: Yamen9z has made the advancement [Arghh, Where be Me Ship?]
+[22:50:29] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.20.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[22:50:57] [Worker-Main-11/WARN]: Tried to access a block entity before it was created. class_2338{x=-1065, y=252, z=2243}
+[22:50:57] [Worker-Main-11/WARN]: Tried to access a block entity before it was created. class_2338{x=-1065, y=252, z=2243}
+[22:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[22:52:04] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow]] from pos class_2338{x=-821, y=69, z=2805}
+[22:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12906ms or 258 ticks behind
+[22:52:18] [spark-async-sampler-worker-thread/WARN]: Timed out waiting for world statistics
+[22:52:26] [Server thread/INFO]: Reelx has made the advancement [Arghh, Where be Me Ship?]
+[22:53:06] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands]] from pos class_2338{x=-1157, y=68, z=2203}
+[22:54:53] [Server thread/INFO]: [Yamen9z: Set the time to 1000]
+[22:56:01] [Server thread/INFO]: [Yamen9z: Set own game mode to Creative Mode]
+[22:56:14] [Server thread/INFO]: [Yamen9z: Set own game mode to Survival Mode]
+[22:58:12] [Server thread/INFO]: [Reelx: Gave 1 [Diamond Axe] to Reelx]
+[23:01:16] [Server thread/INFO]: [Reelx: Set own game mode to Creative Mode]
+[23:01:17] [Server thread/INFO]: Locating element betterarcheology:stonehenge_grassy took 37 ms
