@@ -16572,7 +16572,49 @@
     },
     "done": true
   },
+  "endrem:main/wither_eye": {
+    "criteria": {
+      "wither_eye": "2025-05-17 20:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-17 20:51:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-05-17 20:51:34 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-05-17 20:51:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
     "criteria": {
       "has_milk": "2025-05-17 20:51:46 +0000"
     },
@@ -16581,12 +16623,6 @@
   "croptopia:recipes/churros": {
     "criteria": {
       "has_milk": "2025-05-17 20:51:47 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cow": {
-    "criteria": {
-      "has_milk_bucket": "2025-05-17 20:51:46 +0000"
     },
     "done": true
   },
@@ -16599,30 +16635,6 @@
   "croptopia:recipes/misc/mashed_potatoes": {
     "criteria": {
       "has_milk": "2025-05-17 20:51:47 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cheese": {
-    "criteria": {
-      "has_milk": "2025-05-17 20:51:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-05-17 20:51:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/oatmeal": {
-    "criteria": {
-      "has_milk": "2025-05-17 20:51:46 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/wither_eye": {
-    "criteria": {
-      "wither_eye": "2025-05-17 20:51:10 +0000"
     },
     "done": true
   },
@@ -16650,12 +16662,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/butter": {
-    "criteria": {
-      "has_milk": "2025-05-17 20:51:46 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/extractor/bucket_from_milk_bucket": {
     "criteria": {
       "has_milk_bucket": "2025-05-17 20:51:47 +0000"
@@ -16665,12 +16671,6 @@
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-05-17 20:51:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_banner": {
-    "criteria": {
-      "has_banner": "2025-05-17 20:51:34 +0000"
     },
     "done": true
   },
